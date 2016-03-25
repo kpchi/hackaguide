@@ -1,0 +1,14 @@
+- On-site Support
+	- Contact details of On-site support staff
+	- Their location
+	- Service Level Agreement
+		- Problem resolution
+		- Bandwidth Monitoring
+
+- Contact details of Service Desk
+
+- Contact details of Information Service Desk University Manager
+
+- Failover execution
+	1) Contact Service Desk and / or on-site support
+	2) Cat5e cables from Ethernet ports to laptops
