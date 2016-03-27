@@ -15,24 +15,27 @@
             <section class="toc">
                 <h2>Contents</h2>
                 <ul>
-                    <li>Pre-planning
+                    {{#each sections}}
+                    <li><a href="#section-{{this.dir}}">{{this.name}}</a>
                         <ul>
-                            <li><a href="#section1-1">Firstly</a></li>
-                            <li>But then</li>
+                            {{#each this.headings}}
+                                <li><a href="#section-{{../dir}}-{{@index}}">{{name}}</a></li>
+                            {{/each}}
                         </ul>
                     </li>
+                    {{/each}}
                 </ul>
             </section>
             <article>
-                <h2>Pre-planning</h2>
-                <section id="section1-1" data-title="Firstly" class="active">
-                    <h3 class="sr-hidden">Firstly</h3>
-                    <p>Here is some sample text about something or other.</p>
-                </section>
-                <section data-title="But Then">
-                    <h3 class="sr-hidden">But Then</h3>
-                </section>
-                <h2>On-day Execution</h2>
+                {{#each sections}}
+                    <h2 id="section-{{this.dir}}">{{this.name}}</h2>
+                    {{#each this.headings}}
+                        <section id="section-{{../dir}}-{{@index}}" data-title="{{this.name}}" class="active">
+                            <h3 class="sr-hidden">{{this.name}}</h3>
+                            {{{this.body}}}
+                        </section>
+                    {{/each}}
+                {{/each}}
         </div>
         <script src="https://cdn.jsdelivr.net/jquery/2.2.2/jquery.min.js"></script>
         <script src="main.js"></script>
