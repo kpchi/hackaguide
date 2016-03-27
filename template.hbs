@@ -30,7 +30,7 @@
                 {{#each sections}}
                     <h2 id="section-{{this.dir}}">{{this.name}}</h2>
                     {{#each this.headings}}
-                        <section id="section-{{../dir}}-{{@index}}" data-title="{{this.name}}" class="active">
+                        <section id="section-{{../dir}}-{{@index}}" data-title="{{this.name}}">
                             <h3 class="sr-hidden">{{this.name}}</h3>
                             {{{this.body}}}
                         </section>
