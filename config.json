@@ -1,0 +1,6 @@
+{
+    "sections": [{
+        "name": "Test section",
+        "dir": "test"
+    }]
+}

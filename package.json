@@ -18,6 +18,10 @@
   "homepage": "https://github.com/DTrewwye/hackaguide#readme",
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-ruby-sass": "^2.0.6"
+    "gulp-hbs": "^0.2.0",
+    "gulp-markdown-to-json": "^0.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^2.0.6",
+    "gulp-util": "^3.0.7"
   }
 }

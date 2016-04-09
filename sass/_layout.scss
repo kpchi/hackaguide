@@ -1,0 +1,84 @@
+html, body {
+    background-color: $color-bg;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+header {
+    height: 60vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 0.2rem;
+    @include respond-to(desktop) {
+
+    }
+    * {
+        color: $color-main;
+    }
+}
+
+section, article {
+    background: $color-fg;
+    color: $color-bg;
+    overflow: hidden;
+}
+
+article section {
+    overflow: hidden;
+    max-height: $h3-size * 2;
+    transition: max-height 0.25s ease-in-out;
+    margin-bottom: 0.5rem;
+
+    @include respond-to(landscape) {
+        max-height: $h3-size-w * 2;
+    }
+
+    &.active {
+        max-height: 100rem;
+        &::before {
+            content: "▲ " attr(data-title);
+        }
+    }
+    &::before {
+        @extend h3;
+        display: block;
+        background-color: $color-main;
+        color: $color-fg;
+        height: $h3-size * 2;
+        line-height: $h3-size * 2;
+        left: 0;
+        right: 0;
+        margin: 0;
+        content: "▼ " attr(data-title);
+        @include respond-to (landscape) {
+            height: $h3-size-w * 2;
+            line-height: $h3-size-w * 2;
+        }
+        &:hover {
+            background-color: lighten($color-main, 30);
+        }
+    }
+}
+
+.main {
+    width: 100%;
+    background-color: $color-fg;
+    @include respond-to(desktop) {
+        position: absolute;
+        .toc {
+            width: 23%;
+            padding: 0 1%;
+            position: fixed;
+            left: 0;
+        }
+        article {
+            width: 73%;
+            padding: 0 1%;
+            left: 25%;
+            position: relative;
+        }
+    }
+}

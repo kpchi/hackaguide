@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Hackaguide</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link type="text/css" rel="stylesheet" href="main.css" />
+    </head>
+    <body>
+        <header>
+            <h1>Hackaguide</h1>
+            <h2>A guide to running your own hackathon.</h2>
+        </header>
+        <div class="main">
+            <section class="toc">
+                <h2>Contents</h2>
+                <ul>
+                    {{#each sections}}
+                    <li><a href="#section-{{this.dir}}">{{this.name}}</a>
+                        <ul>
+                            {{#each this.headings}}
+                                <li><a href="#section-{{../dir}}-{{@index}}">{{name}}</a></li>
+                            {{/each}}
+                        </ul>
+                    </li>
+                    {{/each}}
+                </ul>
+            </section>
+            <article>
+                {{#each sections}}
+                    <h2 id="section-{{this.dir}}">{{this.name}}</h2>
+                    {{#each this.headings}}
+                        <section id="section-{{../dir}}-{{@index}}" data-title="{{this.name}}">
+                            <h3 class="sr-hidden">{{this.name}}</h3>
+                            {{{this.body}}}
+                        </section>
+                    {{/each}}
+                {{/each}}
+        </div>
+        <script src="https://cdn.jsdelivr.net/jquery/2.2.2/jquery.min.js"></script>
+        <script src="main.js"></script>
+    </body>
+</html>
