@@ -37,7 +37,7 @@ article section {
     }
 
     &.active {
-        max-height: 100rem;
+        max-height: 1000rem;
         &::before {
             content: "▲ " attr(data-title);
         }

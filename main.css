@@ -71,9 +71,9 @@ article section {
     article section {
       max-height: 8vh; } }
   article section.active {
-    max-height: 100rem; }
+    max-height: 1000rem; }
     article section.active::before {
-      content: "Γû▓ " attr(data-title); }
+      content: "▲ " attr(data-title); }
   article section::before {
     display: block;
     background-color: #af1a00;
@@ -83,7 +83,7 @@ article section {
     left: 0;
     right: 0;
     margin: 0;
-    content: "Γû╝ " attr(data-title); }
+    content: "▼ " attr(data-title); }
     @media (orientation: landscape) {
       article section::before {
         height: 8vh;
