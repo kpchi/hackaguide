@@ -28,17 +28,17 @@ h3, article section::before {
       font-size: 4vh; } }
 
 h2 {
-  font-size: 8vw;
+  font-size: 6vw;
   margin: 1rem 0; }
   @media (orientation: landscape) {
     h2 {
-      font-size: 6vh; } }
+      font-size: 4vh; } }
 
 article li,
 article p,
 section li,
 section p {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   margin: 0; }
 
 html, body {
@@ -73,7 +73,7 @@ article section {
   article section.active {
     max-height: 100rem; }
     article section.active::before {
-      content: "▲ " attr(data-title); }
+      content: "Γû▓ " attr(data-title); }
   article section::before {
     display: block;
     background-color: #af1a00;
@@ -83,7 +83,7 @@ article section {
     left: 0;
     right: 0;
     margin: 0;
-    content: "▼ " attr(data-title); }
+    content: "Γû╝ " attr(data-title); }
     @media (orientation: landscape) {
       article section::before {
         height: 8vh;

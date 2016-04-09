@@ -1,6 +1,11 @@
 {
-    "sections": [{
-        "name": "Test section",
+    "sections": [
+    {
+        "name": "Ticketing",
+        "dir": "Pre-Planning"
+    }, 
+    {
+    	"name": "Food",
         "dir": "test"
     }]
 }

@@ -28,9 +28,9 @@ h3 {
     }
 }
 h2 {
-    font-size: 8vw;
+    font-size: 6vw;
     @include respond-to(landscape) {
-        font-size: 6vh;
+        font-size: 4vh;
     }
     margin: 1rem 0;
 }
@@ -38,7 +38,7 @@ article,
 section {
     li,
     p {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
         margin: 0;
     }
 }

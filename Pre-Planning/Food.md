@@ -1,7 +1,7 @@
-/********Meals********/
+/********Meals********/  
 ASSUMPTION: 24 Hour hackathon, starting Saturday Morning and ending Sunday evening
 
-Saturday: Breakfast (Optional, see Controversial - Attendee Entitlement)
+Saturday: Breakfast (Optional, good to have)
 Saturday: Lunch
 Saturday: Dinner
 Sunday  : Midnight Meal
