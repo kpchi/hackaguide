@@ -6,7 +6,7 @@ html, body {
 }
 
 header {
-    height: 60vh;
+    height: 80vh;
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -72,12 +72,12 @@ article section {
             width: 23%;
             padding: 0 1%;
             position: fixed;
-            left: 0;
+            right: 0;
         }
         article {
             width: 73%;
             padding: 0 1%;
-            left: 25%;
+            right: 0;
             position: relative;
         }
     }
