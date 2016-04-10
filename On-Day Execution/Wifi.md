@@ -1,3 +1,7 @@
+---
+name: Wifi
+---
+
 - On-site Support
 	- Contact details of On-site support staff
 	- Their location

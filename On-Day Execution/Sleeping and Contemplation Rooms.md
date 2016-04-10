@@ -1,0 +1,4 @@
+---
+name: Sleeping & Contemplation Rooms
+---
+

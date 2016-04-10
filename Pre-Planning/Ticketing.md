@@ -1,3 +1,7 @@
+---
+name: Ticketing
+---
+
 Please note this guide is Eventbrite-centric, there are some theoretical aspects here worth taking note of.  See Debatable.
 
 /********Pre-registration********/

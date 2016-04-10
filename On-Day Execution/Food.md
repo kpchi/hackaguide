@@ -1,3 +1,7 @@
+---
+name: Food
+---
+
 /********Attendee Dietary Requirements********/
 - Compare list of checked-in attendees against original attendee list
 	- Account for vegans, lactose-intolerant, gluten-free and various allergies.

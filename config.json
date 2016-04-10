@@ -6,7 +6,7 @@
         }, 
         {
         	"name": "On-Day Execution",
-            "dir": "test"
+            "dir": "On-Day Execution"
         },
         {
         	"name": "Post-Event",

@@ -1,3 +1,7 @@
+---
+name: Ticketing
+---
+
 /********Check-In********/
 - Multiple tables for registration
 - Should be in a central, accessible location

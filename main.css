@@ -10,11 +10,11 @@ h4, h5, h6 {
   font-family: Lato, Helvetica, Arial, sans-serif; }
 
 header h1 {
-  font-size: 15vw;
+  font-size: 9vw;
   margin: 0; }
   @media (orientation: landscape) {
     header h1 {
-      font-size: 15vh; } }
+      font-size: 9vh; } }
 header h2 {
   margin: 0; }
 
@@ -47,12 +47,12 @@ html, body {
   margin: 0; }
 
 header {
-  height: 80vh;
+  height: 20vh;
   overflow: hidden;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding: 0 0.2rem; }
+  padding: 0 1%; }
   header * {
     color: #af1a00; }
 
@@ -102,6 +102,9 @@ article section {
         position: absolute;
         right: 0;
         top: 0; }
+        .main .toc ul,
+        .main .toc ol {
+          padding-left: 1em; }
       .main article {
         width: 73%;
         padding: 0 1%;

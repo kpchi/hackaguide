@@ -1,3 +1,7 @@
+---
+name: Attendee Communication
+---
+
 /********Announcements********/
 - Slack Announcement Channel
 

@@ -1,3 +1,7 @@
+---
+name: Attendee Communication
+---
+
 /********Welcome Pack********/
 
 

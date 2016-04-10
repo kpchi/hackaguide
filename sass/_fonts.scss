@@ -9,9 +9,9 @@ $font-text: Lato, Helvetica, Arial, sans-serif;
 }
 header {
     h1 {
-        font-size: 15vw;
+        font-size: 9vw;
         @include respond-to(landscape) {
-            font-size: 15vh;
+            font-size: 9vh;
         }
         margin: 0;
     }

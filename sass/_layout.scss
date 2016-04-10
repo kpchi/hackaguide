@@ -6,12 +6,12 @@ html, body {
 }
 
 header {
-    height: 80vh;
+    height: 20vh;
     overflow: hidden;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 0 0.2rem;
+    padding: 0 1%;
     @include respond-to(desktop) {
 
     }
@@ -73,7 +73,11 @@ article section {
             padding: 0 1%;
             position: absolute;
             right: 0;
-	    top: 0;
+            top: 0;
+            ul,
+            ol {
+                padding-left: 1em;
+            }
         }
         article {
             width: 73%;
