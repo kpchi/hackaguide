@@ -1,8 +1,8 @@
 ---
-name: Meals
+name: Food
 ---
 
-**ASSUMPTION**: 24 Hour hackathon, starting Saturday Morning and ending Sunday evening.
+**ASSUMPTION**: - Hour hackathon, starting Saturday Morning and ending Sunday evening.
 
 - Saturday: Breakfast (Optional, good to have)  
 - Saturday: Lunch  
@@ -15,7 +15,7 @@ name: Meals
 
 Things worth noting:  
 
-- Don't be afraid to experiment!  Yes some foods can be hit or miss, but its worth going beyond just the usual pizza, burritos, noodles, pies etc.
+- Don't be afraid to experiment!  Yes some foods are hit or miss, but its worth going beyond just the usual pizza, burritos, noodles, pies etc.
 - List all the tasty food you are providing on the Attendee Welcome Pack!  Hackers will be more likely to let you know about their allergies!
 - Don't load up on just carbs, hackers are humans too!  Be nice and provide some healthy, nutritious food to sustain them
 - Make sure the food team has accounted for the various dietary requirements!  People doing ticketing should talk to the food team.
@@ -24,20 +24,25 @@ Things worth noting:
 	- Vegetarian, Vegan
 	- Lactose Intolerant
 	- Gluten-Free
+- Note down stores / wholesalers near you, their opening / closing times and roughly what they carry!  This is especially helpful for restocking or for vegetarian, vegan, lactose intolerant, gluten-free attendees.  If you have a low number of them, someone could simply head out to get food for them.
 
 
 ---
 Mealtime Release
 ---
 
-- Batch release system works well.
-	- Sponsors, Guest Judges first (before specified meal time begins)
-	- Vegetarians, Vegans, Halal, Gluten-Free, Lactose-Intolerant
-	- Wait <X> Minutes before calling the next batch
-	- Half/quarter of attendees depending on event size
-	- Wait <X> Minutes before calling the next batch
-	- Repeat until all attendees have gotten food
-	- Finally, Volunteers grab food
+Mealtime release, ahh the sight of a hungry horde of hackers going for food is often an intimidating one.  How do you release food making sure everyone gets a fair share.  That and making sure they don't queue too long for food, a hungry hacker = grumpy hacker!
+<br >  
+To that effect, the batch release system usually works well for us.  Determining the batches (range of table numbers, location in hacking space or some other automagical way) to a manageable number is up to you!  Below is an example you might find useful, but use what works for you!
+
+- Sponsors, Guest Judges first (before specified meal time begins)
+- Vegetarians, Vegans, Halal, Gluten-Free, Lactose-Intolerant
+- Wait (X) Minutes before calling the next batch
+- Call the batch!
+- Wait (X) Minutes before calling the next batch
+- Repeat the last 2 steps until all attendees have gotten food
+- Finally, Volunteers grab food
+- Release for seconds if there is spare.
 
 - Consider having volunteers distributing the portions, instead of attendees taking as much as they want.
 
@@ -68,7 +73,8 @@ Snacks & Drinks
 
 - Drinks
 	- Convenience here is key
-	- Soda cans rather than 1.5L bottles with cups, Water bottles (500ml)
+	- Soda cans rather than -- bottles with cups
+	- Water bottles (-0ml)
 
 
 ---

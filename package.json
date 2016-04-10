@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DTrewwye/hackaguide.git"
+    "url": "git+https://github.com/kpchi/hackaguide.git"
   },
   "author": "Kok Pin Chi",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/DTrewwye/hackaguide/issues"
+    "url": "https://github.com/kpchi/hackaguide/issues"
   },
-  "homepage": "https://github.com/DTrewwye/hackaguide#readme",
+  "homepage": "https://github.com/kpchi/hackaguide#readme",
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-hbs": "^0.2.0",
