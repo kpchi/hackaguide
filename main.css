@@ -1,4 +1,3 @@
-@charset "UTF-8";
 @import url(https://fonts.googleapis.com/css?family=Arvo|Lato:400,400italic,700,700italic);
 .sr-hidden {
   display: none; }
@@ -73,7 +72,7 @@ article section {
   article section.active {
     max-height: 1000rem; }
     article section.active::before {
-      content: "▲ " attr(data-title); }
+      content: "^ " attr(data-title); }
   article section::before {
     display: block;
     background-color: #af1a00;
@@ -83,7 +82,7 @@ article section {
     left: 0;
     right: 0;
     margin: 0;
-    content: "▼ " attr(data-title); }
+    content: "v " attr(data-title); }
     @media (orientation: landscape) {
       article section::before {
         height: 8vh;

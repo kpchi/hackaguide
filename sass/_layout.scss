@@ -39,7 +39,7 @@ article section {
     &.active {
         max-height: 1000rem;
         &::before {
-            content: "▲ " attr(data-title);
+            content: "^ " attr(data-title);
         }
     }
     &::before {
@@ -52,7 +52,7 @@ article section {
         left: 0;
         right: 0;
         margin: 0;
-        content: "▼ " attr(data-title);
+        content: "v " attr(data-title);
         @include respond-to (landscape) {
             height: $h3-size-w * 2;
             line-height: $h3-size-w * 2;

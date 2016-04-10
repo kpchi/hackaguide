@@ -1,11 +1,16 @@
 {
     "sections": [
-    {
-        "name": "Ticketing",
-        "dir": "Pre-Planning"
-    }, 
-    {
-    	"name": "Food",
-        "dir": "test"
-    }]
+        {
+            "name": "Pre-Planning",
+            "dir": "Pre-Planning"
+        }, 
+        {
+        	"name": "On-Day Execution",
+            "dir": "test"
+        },
+        {
+        	"name": "Post-Event",
+            "dir": "Post-Event"
+        }
+    ]
 }
