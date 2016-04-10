@@ -100,7 +100,8 @@ article section {
         width: 23%;
         padding: 0 1%;
         position: fixed;
-        right: 0; }
+        right: 0;
+        top: 80vh; }
       .main article {
         width: 73%;
         padding: 0 1%;
