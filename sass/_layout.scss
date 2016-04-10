@@ -71,9 +71,9 @@ article section {
         .toc {
             width: 23%;
             padding: 0 1%;
-            position: fixed;
+            position: absolute;
             right: 0;
-	    top: 80vh;
+	    top: 0;
         }
         article {
             width: 73%;
