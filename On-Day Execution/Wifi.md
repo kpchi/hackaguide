@@ -5,6 +5,7 @@ name: Wifi
 ---
 Contact Details
 ---
+
 - Contact details of On-site Helpdesk / Support staff
 - Contact details of Internet Service Provider's (ISP)) staff for the event (should be in the Service Level Agreement contract)
 

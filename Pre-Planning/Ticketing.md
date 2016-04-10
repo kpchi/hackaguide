@@ -4,12 +4,18 @@ name: Ticketing
 
 Please note this guide is Eventbrite-centric, there are some theoretical aspects here worth taking note of.  See Debatable.
 
-/********Pre-registration********/
+---
+Pre-registration
+---
+
 - To gain quick idea before actually releasing tickets
 - Allows an idea on priority release for certain groups if needed.
 
 
-/********Ticket Release********/
+---
+Ticket Release
+---
+
 ASSUMPTION: First Come First Served (FCFS) ticket style only via Eventbrite. See Alternative Methods for some other alternative ticketing methods.
 
 - Release tickets about 6 weeks before the event
@@ -20,7 +26,10 @@ ASSUMPTION: First Come First Served (FCFS) ticket style only via Eventbrite. See
 -  Ensure that only 1 ticket can be purchased, not multiple at once.  Nightmare for Registration if multiple purchases are allowed.  
 
 
-/********Access Codes********/
+---
+Access Codes
+---
+
 - Meant to be for specific groups / under-represented demographics
 	- Women
 	- First-timers
@@ -30,7 +39,10 @@ ASSUMPTION: First Come First Served (FCFS) ticket style only via Eventbrite. See
 
 
 
-/********Waitlist********/
+---
+Waitlist
+---
+
 - 24hr response time is ideal
 - Closed off for people beyond the local region, 3 days before the event.
 - For attendees who email / message in asking for a ticket - would be better to release a ticket to them as they're more likely to come.
@@ -38,7 +50,10 @@ ASSUMPTION: First Come First Served (FCFS) ticket style only via Eventbrite. See
 NOTE: Eventbrite has a weird bug where tickets released to waitlisted people are claimed but not taken off the waitlist.
 
 
-/********Alternative Methods********/
+---
+Alternative Methods
+---
+
 - Type of ticket releases
 	- FCFS Ticketing
 
@@ -87,7 +102,10 @@ NOTE: Eventbrite has a weird bug where tickets released to waitlisted people are
 		- 
 
 
-/********Things to Note********/
+---
+Things to Note
+---
+
 - Accessibility to various groups 
 	- Reaching out to groups that cater to the disabled or the minority / ethnic groups. 
 	- Gender diversity is an additional topic as well.

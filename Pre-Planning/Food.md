@@ -2,7 +2,7 @@
 name: Food
 ---
 
-**ASSUMPTION**: - Hour hackathon, starting Saturday Morning and ending Sunday evening.
+**ASSUMPTION**: 24 Hour hackathon, starting Saturday Morning and ending Sunday evening.
 
 - Saturday: Breakfast (Optional, good to have)  
 - Saturday: Lunch  
@@ -16,7 +16,7 @@ name: Food
 Things worth noting:  
 
 - Don't be afraid to experiment!  Yes some foods are hit or miss, but its worth going beyond just the usual pizza, burritos, noodles, pies etc.
-- List all the tasty food you are providing on the Attendee Welcome Pack!  Hackers will be more likely to let you know about their allergies!
+- List all the tasty food you are providing on the Attendee Welcome Pack!  Hackers are more likely to let you know about their allergies!
 - Don't load up on just carbs, hackers are humans too!  Be nice and provide some healthy, nutritious food to sustain them
 - Make sure the food team has accounted for the various dietary requirements!  People doing ticketing should talk to the food team.
 	- Various allergies
@@ -73,15 +73,15 @@ Snacks & Drinks
 
 - Drinks
 	- Convenience here is key
-	- Soda cans rather than -- bottles with cups
-	- Water bottles (-0ml)
+	- Soda cans rather than 1.5L bottles with cups
+	- Water bottles (500ml)
 
 
 ---
 Restocking Schedule
 ---
 
-- Debate between hourly restock and restocking as it runs out, also regulating restocks
+- Debate between hourly restock and restocking as required, and regulating restocks
 	- Budget dependent, how much can you afford to release each restock and how much buffer budget do you have left?
 	- 
 

@@ -14,21 +14,12 @@ Attendee Dietary Requirements
 Mealtime Release
 ---
 
-Should have been decided at this point
+Should have been decided upon by the food team and communicated to the rest of the volunteers. 
 
-- Sponsors, Guest Judges first (before specified meal time begins)
-- Vegetarians, Vegans, Halal, Gluten-Free, Lactose-Intolerant
-- Wait (X) Minutes before calling the next batch
-- Call the batch!
-- Wait (X) Minutes before calling the next batch
-- Repeat the last 2 steps until all attendees have gotten food
-- Finally, Volunteers grab food
-- Release for seconds if there is spare.
-
-- Volunteers distributing portions if decided upon before-hand.
-
-- Make sure you communicate to attendees how food will be released
-
+This includes:
+- Communicating to attendees how food will be released
+- Food release system
+- Volunteers distributing portions
 - Wristband Identification:
 	- Green for Vegetarians, Vegans, Halal
 	- Various other colors or one color for Lactose Intolerant, Gluten-Free and allergies.

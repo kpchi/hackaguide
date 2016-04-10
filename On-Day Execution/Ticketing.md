@@ -2,7 +2,10 @@
 name: Ticketing
 ---
 
-/********Check-In********/
+---
+Check-In
+---
+
 - Multiple tables for registration
 - Should be in a central, accessible location
 - Physical Identification
@@ -22,7 +25,10 @@ name: Ticketing
 - Direct attendees to the Opening Ceremony (have signs to guide as well!)
 
 
-/********Waitlist********/
+---
+Waitlist
+---
+
 - If people without tickets would like to come:
 	- Ensure attendees with tickets have priority
 	- May or may not be a good idea, as people who initially got tickets will feel as if they should not have tried to get tickets anyway.
