@@ -19,7 +19,6 @@ header h2 {
   margin: 0; }
 
 h3, article section::before {
-  text-transform: uppercase;
   font-size: 5vw;
   margin: 1.25rem 0 0.5rem 0; }
   @media (orientation: landscape) {
@@ -102,8 +101,7 @@ article section {
         position: absolute;
         right: 0;
         top: 0; }
-        .main .toc ul,
-        .main .toc ol {
+        .main .toc ul {
           padding-left: 1em; }
       .main article {
         width: 73%;

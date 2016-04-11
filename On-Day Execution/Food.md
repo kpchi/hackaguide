@@ -14,7 +14,7 @@ Attendee Dietary Requirements
 Mealtime Release
 ---
 
-Should have been decided upon by the food team and communicated to the rest of the volunteers. 
+This should have been decided upon by the food team and communicated to the rest of the volunteers. 
 
 This includes:
 - Communicating to attendees how food will be released
@@ -31,7 +31,7 @@ This includes:
 Restocking Schedule
 ---
 
-Should have been decided at this point, make adjustments as necessary
+- Should have been decided at this point, adjust as required
 - Food team should keep an inventory of total stock and stock released, let organisers know if more needs to be purchased
 	- The food team MUST be aware of nearby food shops opening and closing times.  
 	- Certain items (milk, other perishables) can be bought just in time for meals.  Alternatively buy UHT Milk

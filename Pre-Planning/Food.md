@@ -55,6 +55,23 @@ To that effect, the batch release system usually works well for us.  Determining
 Snacks & Drinks
 ---
 
+And here come the nibbles and elixirs of life that keep hackers sustained when all else has passed.  Hackers get hungry when they're working and staying up all-night.  We've listed out things below you can consider for snacks & drinks.
+
+- Snacks
+	- Fruits (Bananas, Apples, Pears, Tangerines)
+	- Granola Bars
+	- Nuts
+	- Candy (Gummy Bears, Lollipops, Mars Bars and the like)
+	- Crisps
+	- Biscuits
+
+- Drinks
+	- Convenience here is key
+	- Soda cans rather than 1.5L bottles with cups
+	- Water bottles (500ml)
+	- Coffee, Tea, Hot Chocolate
+	- Milk (Dairy and Soy)
+
 - Method of Delivery
 	- Snacks available at fixed locations
 		- Requires regular restocking (see Restocking Schedule)
@@ -67,14 +84,6 @@ Snacks & Drinks
 		- Requires tables to have fixed numbers + venue map with table numbers.
 		- Requires for active social media monitoring and specific assigned volunteers.
 		- Allows for a more joyful atmosphere with the feeling of a catered to service.
-
-- Snacks
-	- 
-
-- Drinks
-	- Convenience here is key
-	- Soda cans rather than 1.5L bottles with cups
-	- Water bottles (500ml)
 
 
 ---

@@ -20,7 +20,6 @@ header {
     }
 }
 h3 {
-    text-transform: uppercase;
     font-size: $h3-size;
     margin: 1.25rem 0 0.5rem 0;
     @include respond-to(landscape) {
