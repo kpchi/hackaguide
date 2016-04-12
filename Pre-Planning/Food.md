@@ -18,22 +18,22 @@ Things worth noting:
 - Don't be afraid to experiment!  Yes some foods are hit or miss, but its worth going beyond just the usual pizza, burritos, noodles, pies etc.
 - List all the tasty food you are providing on the Attendee Welcome Pack!  Hackers are more likely to let you know about their allergies!
 - Don't load up on just carbs, hackers are humans too!  Be nice and provide some healthy, nutritious food to sustain them
-- Make sure the food team has accounted for the various dietary requirements!  People doing ticketing should talk to the food team.
-	- Various allergies
-	- Halal
+- Make sure the food team has accounted for the various dietary requirements and allergies!  People doing ticketing should talk to the food team.
+	- Various allergies (Especially peanut)
+	- Halal, Kosher
 	- Vegetarian, Vegan
 	- Lactose Intolerant
 	- Gluten-Free
-- Note down stores / wholesalers near you, their opening / closing times and roughly what they carry!  This is especially helpful for restocking or for vegetarian, vegan, lactose intolerant, gluten-free attendees.  If you have a low number of them, someone could simply head out to get food for them.
+- Note down stores / wholesalers near you, their opening & closing times and roughly what they carry!  This is especially helpful for restocking or for buying meals for vegetarian, vegan, lactose intolerant, gluten-free attendees.  If you have a low number of them, someone could simply head out to get food for them.
 
 
 ---
 Mealtime Release
 ---
 
-Mealtime release, ahh the sight of a hungry horde of hackers going for food is often an intimidating one.  How do you release food making sure everyone gets a fair share.  That and making sure they don't queue too long for food, a hungry hacker = grumpy hacker!
+Ahh the sight of a hungry horde of hackers going for food is often an intimidating one.  How do you release food making sure everyone gets a fair share and that they don't queue too long for food, a hungry hacker = grumpy hacker!
 <br >  
-To that effect, the batch release system usually works well for us.  Determining the batches (range of table numbers, location in hacking space or some other automagical way) to a manageable number is up to you!  Below is an example you might find useful, but use what works for you!
+To that effect, the batch release system usually works well.  Determining the batches (range of table numbers, location in hacking space or some other automagical way) to a manageable number is up to you!  Below is an example you might find useful, but use what works for you!
 
 - Sponsors, Guest Judges first (before specified meal time begins)
 - Vegetarians, Vegans, Halal, Gluten-Free, Lactose-Intolerant
@@ -42,12 +42,12 @@ To that effect, the batch release system usually works well for us.  Determining
 - Wait (X) Minutes before calling the next batch
 - Repeat the last 2 steps until all attendees have gotten food
 - Finally, Volunteers grab food
-- Release for seconds if there is spare.
+- Release for seconds to everyone if there is spare.
 
 - Consider having volunteers distributing the portions, instead of attendees taking as much as they want.
 
 - Wristband Identification:
-	- Green for Vegetarians, Vegans, Halal
+	- X Color for Vegetarians, Vegans, Halal
 	- Various other colors or one color for Lactose Intolerant, Gluten-Free and allergies.
 
 
@@ -55,7 +55,7 @@ To that effect, the batch release system usually works well for us.  Determining
 Snacks & Drinks
 ---
 
-And here come the nibbles and elixirs of life that keep hackers sustained when all else has passed.  Hackers get hungry when they're working and staying up all-night.  We've listed out things below you can consider for snacks & drinks.
+And here come the nibbles and elixirs of life that keep hackers sustained when all else has passed.  Hackers need energy to sustain when they're working and staying up all-night, so remember to get high energy items!  But that doesn't mean only providing Redbull, there are high-energy fruits as well like bananas and pears.  Below is a list of things you can consider.
 
 - Snacks
 	- Fruits (Bananas, Apples, Pears, Tangerines)
@@ -68,6 +68,7 @@ And here come the nibbles and elixirs of life that keep hackers sustained when a
 - Drinks
 	- Convenience here is key
 	- Soda cans rather than 1.5L bottles with cups
+	- Redbull (See Sponsorship Section) / Energy Drink
 	- Water bottles (500ml)
 	- Coffee, Tea, Hot Chocolate
 	- Milk (Dairy and Soy)
@@ -78,34 +79,39 @@ And here come the nibbles and elixirs of life that keep hackers sustained when a
 		- No way to regulate how much each hacker takes (See Controversial)
 	- Snacks available on regular rounds
 		- Snacks go on rounds every so often
-		- 
-	- Snacks available via KurtCart (Delivery on tweet) [Idea stolen from StudentHack]
-		
+		- Possible that one or more carts required to prevent snacks that round from running out.
+		- Volunteers can interact more with attendees!
+	- Snacks available via KurtCart (Delivery on tweet) [Idea stolen from StudentHack]		
 		- Requires tables to have fixed numbers + venue map with table numbers.
 		- Requires for active social media monitoring and specific assigned volunteers.
-		- Allows for a more joyful atmosphere with the feeling of a catered to service.
+		- Allows for a more joyful atmosphere with the feeling of a catered to service.  Also volunteers can interact more with attendees!
+
+- Things worth noting:
+	- Having a variety of food is nice to have if possible.
+	- Add healthy snacks in like nuts, (dried) fruit or granola bars!  
+	- Have water, lots of it.  Caffeine is fun and all, but is also dehydrating.  And rather than let them get even more dehydrated by ingesting more, water always helps!
+	- Have more than 1 kettle available if you're providing hot water / beverages / pot noodles.  
 
 
 ---
 Restocking Schedule
 ---
 
-- Debate between hourly restock and restocking as required, and regulating restocks
-	- Budget dependent, how much can you afford to release each restock and how much buffer budget do you have left?
-	- 
-
-- Regulating before and after meals
-	- Restock less an hour before meals
-	- No restock an hour after meals
-
-- Things worth considering
-	- Staggering food and drinks restock, or doing both at the same time
+- Dependent on the method of delivery, fixed locations can be regularly restocked or restocked as required.  Regular rounds and the KurtCart can be restocked when the round is finished.
+- Debate between regular restock and restocking as required, and regulating restocks.
+	- **Budget dependent**, how much can you afford to release each restock and how much buffer budget do you have left?
+	- **Regulating** before and after meals (See Controversial)
 
 
-Things worth noting:
-- Variety of foods
-- Healthy food and snacks
-- Lots of water
+---
+Rubbish Collection
+---
+
+A necessity at hackathons, considering how much consumables we go through during the entire event.  Tables have occassionally become a landfill just from Coke cans alone.
+
+It's worth doing them every hour or two, and make sure the bin bags you've purchased aren't too flimsy.  Having a mix of shudderworthy contents spill all over you is a surefire way to ruin an otherwise good weekend.
+
+Which is also a good reason to get hand sanitiser and disposable gloves!
 
 
 ---
@@ -118,3 +124,12 @@ Controversial
 	The easiest introduction to this topic is having MLH Coaches to various hackathons.  Once introduced, many people never considered the cost of bailing out of it last minute and never showed.  Despite measures taken to let hackers know that such decisions had a financial cost and reduce attrition - not much progress were made.  Thus when coaches to various hackathons were killed, there was a huge outcry as precedent had been set and people 'expected' it to be there.
 	<br>  
 	Similarly this applies to swag.
+
+
+- **Regulating Restocks**  
+	Tricky subject, you've ordered food for your attendees but also provide snacks to them.  Do you regulate snacks so that your meals don't go to waste or do you let attendees self-regulate their own eating habits?  
+
+	Much of this is down to personal choice, 
+		
+		- Restock less an hour before meals
+		- No restock during and an hour after meals
