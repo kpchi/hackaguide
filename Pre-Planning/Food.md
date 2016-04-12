@@ -108,9 +108,9 @@ Rubbish Collection
 ---
 
 A necessity at hackathons, considering how much consumables we go through during the entire event.  Tables have occassionally become a landfill just from Coke cans alone.
-
+<br>  
 It's worth doing them every hour or two, and make sure the bin bags you've purchased aren't too flimsy.  Having a mix of shudderworthy contents spill all over you is a surefire way to ruin an otherwise good weekend.
-
+<br>  
 Which is also a good reason to get hand sanitiser and disposable gloves!
 
 

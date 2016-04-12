@@ -37,7 +37,7 @@ Restocking Schedule
 Rubbish Collection
 ---
 
-Being done every hour or two, maybe as needed?  Can be done by volunteers assigned to that specific area, or by the food team.  
+Being done every hour or two, maybe as needed?  Can be done by volunteers assigned to that specific area, or by the food team.
 <br>  
 Things to have:
 - Bin / Trash bags  
