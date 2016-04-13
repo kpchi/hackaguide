@@ -36,9 +36,7 @@ Ahh the sight of a hungry horde of hackers going for food is often an intimidati
 To that effect, the batch release system usually works well.  Determining the batches (range of table numbers, location in hacking space or some other automagical way) to a manageable number is up to you!  Below is an example you might find useful, but use what works for you!
 
 - Sponsors, Guest Judges first (before specified meal time begins)
-- Vegetarians, Vegans, Halal, Gluten-Free, Lactose-Intolerant
-- Wait (X) Minutes before calling the next batch
-- Call the batch!
+- Call the batch!  Make sure the volunteers know the wristband identification system, allowing them to direct attendees with allergies or dietary requirements to the right section.
 - Wait (X) Minutes before calling the next batch
 - Repeat the last 2 steps until all attendees have gotten food
 - Finally, Volunteers grab food
@@ -68,7 +66,7 @@ And here come the nibbles and elixirs of life that keep hackers sustained when a
 - Drinks
 	- Convenience here is key
 	- Soda cans rather than 1.5L bottles with cups
-	- Redbull (See Sponsorship Section) / Energy Drink
+	- Redbull (See Sponsors Section) / Energy Drink
 	- Water bottles (500ml)
 	- Coffee, Tea, Hot Chocolate
 	- Milk (Dairy and Soy)
@@ -76,7 +74,7 @@ And here come the nibbles and elixirs of life that keep hackers sustained when a
 - Method of Delivery
 	- Snacks available at fixed locations
 		- Requires regular restocking (see Restocking Schedule)
-		- No way to regulate how much each hacker takes (See Controversial)
+		- No way to control how much each hacker takes (See Controversial)
 	- Snacks available on regular rounds
 		- Snacks go on rounds every so often
 		- Possible that one or more carts required to prevent snacks that round from running out.
@@ -112,24 +110,3 @@ A necessity at hackathons, considering how much consumables we go through during
 It's worth doing them every hour or two, and make sure the bin bags you've purchased aren't too flimsy.  Having a mix of shudderworthy contents spill all over you is a surefire way to ruin an otherwise good weekend.
 <br>  
 Which is also a good reason to get hand sanitiser and disposable gloves!
-
-
----
-Controversial
----
-
-- **Attendee Entitlement**  
-	This is fairly controversial, cover the basics first.
-	<br>  
-	The easiest introduction to this topic is having MLH Coaches to various hackathons.  Once introduced, many people never considered the cost of bailing out of it last minute and never showed.  Despite measures taken to let hackers know that such decisions had a financial cost and reduce attrition - not much progress were made.  Thus when coaches to various hackathons were killed, there was a huge outcry as precedent had been set and people 'expected' it to be there.
-	<br>  
-	Similarly this applies to swag.
-
-
-- **Regulating Restocks**  
-	Tricky subject, you've ordered food for your attendees but also provide snacks to them.  Do you regulate snacks so that your meals don't go to waste or do you let attendees self-regulate their own eating habits?  
-
-	Much of this is down to personal choice, 
-		
-		- Restock less an hour before meals
-		- No restock during and an hour after meals

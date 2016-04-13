@@ -11,6 +11,10 @@
         {
         	"name": "Post-Event",
             "dir": "Post-Event"
+        },
+        {
+            "name": "Controversial",
+            "dir": "Controversial"  
         }
     ]
 }
