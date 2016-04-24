@@ -52,9 +52,9 @@
                                 <li><a href="#section-Post-Event-2">Sponsors</a></li>
                         </ul>
                     </li>
-                    <li><a href="#section-Controversial">Controversial</a>
+                    <li><a href="#section-Optional">Optional</a>
                         <ul>
-                                <li><a href="#section-Controversial-0">Controversial</a></li>
+                                <li><a href="#section-Optional-0">Controversial</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -116,9 +116,7 @@
 <br ><br>To that effect, the batch release system usually works well.  Determining the batches (range of table numbers, location in hacking space or some other automagical way) to a manageable number is up to you!  Below is an example you might find useful, but use what works for you!</p>
 <ul>
 <li>Sponsors, Guest Judges first (before specified meal time begins)</li>
-<li>Vegetarians, Vegans, Halal, Gluten-Free, Lactose-Intolerant</li>
-<li>Wait (X) Minutes before calling the next batch</li>
-<li>Call the batch!</li>
+<li>Call the batch!  Make sure the volunteers know the wristband identification system, allowing them to direct attendees with allergies or dietary requirements to the right section.</li>
 <li>Wait (X) Minutes before calling the next batch</li>
 <li>Repeat the last 2 steps until all attendees have gotten food</li>
 <li>Finally, Volunteers grab food</li>
@@ -151,7 +149,7 @@
 <ul>
 <li>Convenience here is key</li>
 <li>Soda cans rather than 1.5L bottles with cups</li>
-<li>Redbull (See Sponsorship Section) / Energy Drink</li>
+<li>Redbull (See Sponsors Section) / Energy Drink</li>
 <li>Water bottles (500ml)</li>
 <li>Coffee, Tea, Hot Chocolate</li>
 <li>Milk (Dairy and Soy)</li>
@@ -161,7 +159,7 @@
 <ul>
 <li>Snacks available at fixed locations<ul>
 <li>Requires regular restocking (see Restocking Schedule)</li>
-<li>No way to control how much each hacker takes (See Controversial)</li>
+<li>No way to control how much each hacker takes (See <a href="index.html/#section-Controversial" title="Controversial">Controversial</a>)</li>
 </ul>
 </li>
 <li>Snacks available on regular rounds<ul>
@@ -193,7 +191,7 @@
 <li>Dependent on the method of delivery, fixed locations can be regularly restocked or restocked as required.  Regular rounds and the KurtCart can be restocked when the round is finished.</li>
 <li>Debate between regular restock and restocking as required, and regulating restocks.<ul>
 <li><strong>Budget dependent</strong>, how much can you afford to release each restock and how much buffer budget do you have left?</li>
-<li><strong>Regulating</strong> before and after meals (See Controversial)</li>
+<li><strong>Regulating</strong> before and after meals (See <a href="index.html#section-Controversial" title="Controversial">Controversial</a>)</li>
 </ul>
 </li>
 </ul>
@@ -360,19 +358,18 @@
 </ul>
 </li>
 <li>Number of available leases?<ul>
-<li>Get number of Wifi AP’s around the venue and leases available per AP (in practice).</li>
+<li>Get number of Wifi Access Points’s (APs) around the venue and leases available per AP (in practice).</li>
 <li>Ask if the venue can provide additional infrastructure if no. of leases is less than the no. of devices.</li>
 </ul>
 </li>
 <li>Bandwidth Capacity?  <ul>
-<li>Venue’s hardware maximum capacity?</li>
-<li>(UCL Venue Reference) 250 people (including volunteers and sponsors) peaked at 30 Gigabits per hour sustained for an hour.</li>
+<li>Venue’s maximum bandwidth possible?</li>
 </ul>
 </li>
 </ul>
 <ul>
 <li>Network throttling / Port filtering?<ul>
-<li>Port Filtering done by the venue?  <a href="http://hackdaymanifesto.com/#network" title="The Hack Day Manifesto">The Hack Day Manifesto</a> has a good list of ports to keep unfiltered<ul>
+<li>Port Filtering done by the venue?  <a href="http://hackdaymanifesto.com#network" title="The Hack Day Manifesto">The Hack Day Manifesto</a> has a good list of ports to keep unfiltered<ul>
 <li>TL:DR SSH (22)</li>
 <li>DNS (53 — TCP &amp; UDP)</li>
 <li>VPN (47, 500, 1701, 1723, 5500)</li>
@@ -389,14 +386,15 @@
 </ul>
 </li>
 <li>IP Whitelisting on venue’s side for various sites to download software</li>
-<li>Any DDoS measures venue’s infrastructure might have that will affect the hackathon?</li>
+<li>Any Distrbuted Denial of Service  measures venue’s infrastructure might have that will affect the hackathon?</li>
 </ul>
 </li>
 </ul>
 <hr>
 <h2 id="wifi-failover">Wifi Failover</h2>
 <ul>
-<li>Failover Planning<ul>
+<li><p>Failover Planning</p>
+<ul>
 <li>What happens if WiFi goes down, are there ethernet ports available? <ul>
 <li>Are the ethernet ports MAC Address specific?  </li>
 <li>Are the ethernet ports on the same IP segment as WiFi?</li>
@@ -405,13 +403,19 @@
 </li>
 </ul>
 </li>
+<li><p>How long till the failover is available?</p>
+<ul>
+<li>How do you communicate to attendees the downtime.</li>
+<li>What do attendees have to do to conenct to the failover.</li>
+</ul>
+</li>
 </ul>
 <hr>
 <h2 id="on-site-support">On-Site Support</h2>
 <ul>
 <li>On-site Support<ul>
 <li>Anyone from venue’s Network Admin team around on-site if something happens?</li>
-<li>(Optional) SNMP Traps of network utilisation so people can make a visualization of network traffic?</li>
+<li>(optional) Access to live information about how much bandwidth has been used and which protocols?  Done via SNMP Traps of the Wifi AP’s</li>
 </ul>
 </li>
 </ul>
@@ -463,7 +467,7 @@
 <ul>
 <li>Communicating to attendees how food will be released</li>
 <li>Food release system</li>
-<li>If volunteers are distributing portions</li>
+<li>Are volunteers are distributing portions?</li>
 <li>Wristband Identification:<ul>
 <li>X Color for Vegetarians, Vegans, Halal, Kosher</li>
 <li>Various other colors or one color for Lactose Intolerant, Gluten-Free and allergies.</li>
@@ -615,8 +619,8 @@
                             <h3 class="sr-hidden">Sponsors</h3>
                             
                         </section>
-                    <h2 id="section-Controversial">Controversial</h2>
-                        <section id="section-Controversial-0" data-title="Controversial">
+                    <h2 id="section-Optional">Optional</h2>
+                        <section id="section-Optional-0" data-title="Controversial">
                             <h3 class="sr-hidden">Controversial</h3>
                             <ul>
 <li><strong>Attendee Entitlement</strong><br>  This is fairly controversial, cover the basics first.

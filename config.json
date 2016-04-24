@@ -13,8 +13,8 @@
             "dir": "Post-Event"
         },
         {
-            "name": "Controversial",
-            "dir": "Controversial"  
+            "name": "Optional",
+            "dir": "Optional"  
         }
     ]
 }

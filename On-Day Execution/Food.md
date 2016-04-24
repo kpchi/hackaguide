@@ -17,7 +17,7 @@ Mealtime Release
 The following should have been decided upon by the food team and communicated to the rest of the volunteers:
 - Communicating to attendees how food will be released
 - Food release system
-- If volunteers are distributing portions
+- Are volunteers are distributing portions?
 - Wristband Identification:
 	- X Color for Vegetarians, Vegans, Halal, Kosher
 	- Various other colors or one color for Lactose Intolerant, Gluten-Free and allergies.

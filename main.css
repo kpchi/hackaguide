@@ -33,8 +33,7 @@ h2 {
     h2 {
       font-size: 4vh; } }
 
-article li,
-article p,
+article li, article p,
 section li,
 section p {
   font-size: 1.2rem;
