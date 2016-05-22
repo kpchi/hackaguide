@@ -24,6 +24,7 @@ Things worth noting:
 	- Vegetarian, Vegan
 	- Lactose Intolerant
 	- Gluten-Free
+- Make sure you have this list beforehand, when you place the order and not on the day itself. 
 - Note down stores / wholesalers near you, their opening & closing times and roughly what they carry!  This is especially helpful for restocking or for buying meals for vegetarian, vegan, lactose intolerant, gluten-free attendees.  If you have a low number of them, someone could simply head out to get food for them.
 
 
@@ -47,6 +48,10 @@ To that effect, the batch release system usually works well.  Determining the ba
 - Wristband Identification:
 	- X Color for Vegetarians, Vegans, Halal
 	- Various other colors or one color for Lactose Intolerant, Gluten-Free and allergies.
+
+- Have different areas for different types of foods, keep non-vegeterian and vegeterian options seperate. Even within the non-veg area, segerate your food options so it's easier to tell the hackers what is what. When there is a long queue of people to deal with, you don't want to waste time telling each person what each item is. This can be sped up by seperate and labels. 
+
+
 
 
 ---
