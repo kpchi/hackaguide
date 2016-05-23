@@ -18,4 +18,4 @@ name: Controversial
 		- Restock less an hour before meals
 		- No restock during and an hour after meals
 
-	It might be a good idea to poll a friend you know who is hacking and ask them to give you honest feedback on how they feel about the release of snacks and foods. Whilst this is not representative of everyone, it gives you some idea about how hungry hackers are and you may wish to adjust the amount you are releasing. 
+	If you know some of the attendees hacking, you might want ask for their feedback on the general attendee sentiment.  It may give you a feel on how hungry hackers are and if you need to change the release frequency or restock amount.
