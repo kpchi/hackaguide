@@ -15,9 +15,9 @@ name: Food
 
 Things worth noting:  
 
-- Don't be afraid to experiment!  Yes some foods are hit or miss, but its worth going beyond just the usual pizza, burritos, noodles, pies etc.
+- Don't be afraid to experiment!  Yes some foods are hit or miss, but its worth going beyond just the usual local norms like pizza, burritos, noodles, pies etc.
 - List all the tasty food you are providing on the Attendee Welcome Pack!  Hackers are more likely to let you know about their allergies!
-- Don't load up on just carbs, hackers are humans too!  Be nice and provide some healthy, nutritious food to sustain them
+- Don't load up on just carbs, hackers are humans too!  Be nice and provide some healthy, nutritious food to sustain them.
 - Make sure the food team has accounted for the various dietary requirements and allergies!  People doing ticketing should talk to the food team.
 	- Various allergies (Especially peanut)
 	- Halal, Kosher
@@ -33,7 +33,7 @@ Mealtime Release
 
 Ahh the sight of a hungry horde of hackers going for food is often an intimidating one.  How do you release food making sure everyone gets a fair share and that they don't queue too long for food, a hungry hacker = grumpy hacker!
 <br >  
-To that effect, the batch release system usually works well.  Determining the batches (range of table numbers, location in hacking space or some other automagical way) to a manageable number is up to you!  Below is an example you might find useful, but use what works for you!
+To that effect, the batch release system usually works well.  Determining the batches (range of table numbers, location in hacking space or some other automagical way) and reducing them to a manageable number is up to you!  Below is an example you might find useful, but use what works for you!
 
 - Sponsors, Guest Judges first (before specified meal time begins)
 - Call the batch!  Make sure the volunteers know the wristband identification system, allowing them to direct attendees with allergies or dietary requirements to the right section.
@@ -57,7 +57,7 @@ To that effect, the batch release system usually works well.  Determining the ba
 Snacks & Drinks
 ---
 
-And here come the nibbles and elixirs of life that keep hackers sustained when all else has passed.  Hackers need energy to sustain when they're working and staying up all-night, so remember to get high energy items!  But that doesn't mean only providing Redbull, there are high-energy fruits as well like bananas and pears.  Below is a list of things you can consider.
+And here come the nibbles and elixirs of life that keep hackers sustained when all else has passed.  Hackers need energy to sustain when they're working and staying up all-night, so remember to get high-energy items!  But that doesn't mean only providing Redbull, there are high-energy fruits as well like bananas and pears.  Below is a list of things you can consider.
 
 - Snacks
 	- Fruits (Bananas, Apples, Pears, Tangerines)
@@ -91,7 +91,7 @@ And here come the nibbles and elixirs of life that keep hackers sustained when a
 - Things worth noting:
 	- Having a variety of food is nice to have if possible.
 	- Add healthy snacks in like nuts, (dried) fruit or granola bars!  
-	- Have water, lots of it.  Caffeine is fun and all, but is also dehydrating.  And rather than let them get even more dehydrated by ingesting more, water always helps!
+	- Have water, lots of it.  Caffeine is fun and all, but it's also dehydrating.  And rather than let attendees get even more dehydrated by ingesting more, water always helps!
 	- Have more than 1 kettle available if you're providing hot water / beverages / pot noodles.  
 
 
@@ -109,8 +109,8 @@ Restocking Schedule
 Rubbish Collection
 ---
 
-A necessity at hackathons, considering how much consumables we go through during the entire event.  Tables have occassionally become a landfill just from Coke cans alone.
+A necessity at hackathons, considering how much consumables attendees go through during the entire event.  Tables have occassionally become a landfill just from Coke cans alone.
 <br>  
-It's worth doing them every hour or two, and make sure the bin bags you've purchased aren't too flimsy.  Having a mix of shudderworthy contents spill all over you is a surefire way to ruin an otherwise good weekend.
+It's worth doing them every hour or two, and make sure the bin bags you've purchased aren't too flimsy.  Having a mix of shudderworthy contents spill all over you is a surefire way to spoil an otherwise good hackathon.
 <br>  
 Which is also a good reason to get hand sanitiser and disposable gloves!
