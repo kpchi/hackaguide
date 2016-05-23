@@ -17,3 +17,5 @@ name: Controversial
 		
 		- Restock less an hour before meals
 		- No restock during and an hour after meals
+
+	If you know some of the attendees hacking, you might want ask for their feedback on the general attendee sentiment.  It may give you a feel on how hungry hackers are and if you need to change the release frequency or restock amount.
