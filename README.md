@@ -1,3 +1,6 @@
+# READ THIS FIRST
+If you are working on files in a specific folder, **make sure you are in the branch that has the same name as the folder!**
+
 # Build instructions
 You will need Node.js and npm.
 
