@@ -17,8 +17,10 @@ Announcements
 
 
 ---
-FAQ + Q&A
+Slack
 ---
+
+
 
 - Welcome Pack
 - Slack channels

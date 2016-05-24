@@ -25,6 +25,14 @@ ASSUMPTION: FCFS ticket style only via Eventbrite. See Alternative Methods for s
 	- Ticket releases are announced via the Mailing List - this ensures people sign up to the mailing list and increases the 'hook' for (potential) attendees to keep track of whats going on in the newsletter / Mailing List.
 -  Ensure that only 1 ticket can be purchased, not multiple at once.  Can be a nightmare for Registration if multiple purchases are allowed.  
 
+- Below are some Custom Questions you might want to ask amongst others:
+	- Any allergies, dietary requirements you need to be aware of?
+	- Any special requirements? (Medical, Accessibility)
+	- Are you Under-18? (This assumes you're allowing U-18s to participate)
+	- Do you have access to EduRoam / <X University Network>
+	- First-time hackathon attendee?
+	- Do you agree to abide by the MLH Code of Conduct at all times? (If MLH hackathon)
+
 
 ---
 Access Codes
@@ -83,7 +91,7 @@ Alternative Methods
 		- Helps successful applicants get jobs with companies
 			- Their CV's / emails are sent out to sponsoring companies
 			- Part of the recruitment clause in the sponsorship package
-			- Applicants should be aware of this fact (Ethical issue) 
+			- Applicants should be aware of this fact (Ethical issue: Data Privacy) 
 		
 		Disadvantages:
 		- High barrier to entry.
@@ -96,10 +104,11 @@ Alternative Methods
 	- Programming Challenge
 
 		Advantages:
-		- 
+		- Useful for themed hackathons or 
 
 		Disadvantages:
-		- 
+		- Similarly to Applications method, high barrier to entry
+			- Daunting to first-timers / beginners especially if they don't feel qualified.
 
 
 ---
@@ -107,5 +116,5 @@ Things to Note
 ---
 
 - Accessibility to various groups 
-	- Reaching out to groups that cater to the disabled or the minority / ethnic groups. 
-	- Gender diversity is an additional topic as well.
+	- Individuals from groups under-represented in technology
+	- Those with special needs or requiring special accommodations
