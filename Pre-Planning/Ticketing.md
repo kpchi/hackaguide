@@ -2,13 +2,13 @@
 name: Ticketing
 ---
 
-Please note this guide is Eventbrite-centric, there are some theoretical aspects here worth taking note of.  See Debatable.
+Please note this guide is Eventbrite First-Come-First-Served (FCFS)-centric, there are some theoretical aspects here worth taking note of.  See Debatable.
 
 ---
 Pre-registration
 ---
 
-- To gain quick idea before actually releasing tickets
+- To gain quick idea of interest before actually releasing tickets.
 - Allows an idea on priority release for certain groups if needed.
 
 
@@ -16,36 +16,35 @@ Pre-registration
 Ticket Release
 ---
 
-ASSUMPTION: First Come First Served (FCFS) ticket style only via Eventbrite. See Alternative Methods for some other alternative ticketing methods.
+ASSUMPTION: FCFS ticket style only via Eventbrite. See Alternative Methods for some other alternative ticketing methods.
 
 - Release tickets about 6 weeks before the event
 - Multiple small batches, this keeps up the hype
 	- Keep a rotation of ticket releases:
 		E.g.: Monday 1pm, Tuesday 2pm, Wednesday 3pm, Thursday 4pm, Friday 5pm.  This ensures the different segments are taken care of and people don't feel like they've been excluded.
-	- Ticket releases are announced via the Mailing List - this ensures people are signed up to the mailing list and increases the 'hook' for (potential) attendees to keep track of whats going on in the newsletter / Mailing List.
--  Ensure that only 1 ticket can be purchased, not multiple at once.  Nightmare for Registration if multiple purchases are allowed.  
+	- Ticket releases are announced via the Mailing List - this ensures people sign up to the mailing list and increases the 'hook' for (potential) attendees to keep track of whats going on in the newsletter / Mailing List.
+-  Ensure that only 1 ticket can be purchased, not multiple at once.  Can be a nightmare for Registration if multiple purchases are allowed.  
 
 
 ---
 Access Codes
 ---
 
-- Meant to be for specific groups / under-represented demographics
-	- Women
-	- First-timers
-	- Technology Minorities
-- For University-specific groups
-	- Keep an active eye out on universities with only 1 or 2 students attending.  Ask them if they have friends who would like to come and provide enough tickets for them to form a team.
-
+- Usually meant to be for:
+	- Beginners
+	- Individuals from groups under-represented in technology
+	- Those with special needs or requiring special accommodations
+	- For University-specific groups
+		- Keep an active eye out on universities with only 1 or 2 students attending.  Ask them if they have friends who would like to come and provide enough tickets for them to form a team.
 
 
 ---
 Waitlist
 ---
 
-- 24hr response time is ideal
-- Closed off for people beyond the local region, 3 days before the event.
-- For attendees who email / message in asking for a ticket - would be better to release a ticket to them as they're more likely to come.
+- Give people on the waitlist 24hours to respond.
+- 3 days before the event, it would be better to prioritise people local or close to your hackathon (low travel costs)
+- Consider giving a ticket to attendees on the waitlist who email / message asking for a ticket as they're more likely to come.
 
 NOTE: Eventbrite has a weird bug where tickets released to waitlisted people are claimed but not taken off the waitlist.
 
@@ -64,8 +63,9 @@ Alternative Methods
 			- Also allows word to spread to non-insider groups.  However, this should be addressed during the initial batches to allow people travelling from afar to get cheap tickets.
 
 		Disadvantages: 
-		- Can become a case of who has the fastest internet speed
-		- Disabled users unable to get ticket due to FCFS speed.  How to release tickets without 'targeting' them.
+		- Can become a case of who has the fastest internet speed / can click the fastest.
+		- Unfriendly to disabled users, especially because of how fast tickets can go in FCFS.  Need to release tickets but without being seen to be 'targeting' them.
+		- Effort required to cover all bases, i.e. rotating ticket releases
 
 	- Randomized Pool
 
