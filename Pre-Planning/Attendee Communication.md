@@ -13,7 +13,7 @@ The guide you make for your participants!  This is really helpful to let your at
 	- Venue-related: Floor plans, fire exits, building access and how to get to the venue
 	- Overall Schedule
 	- Workshop Specific Schedule
-	- Wifi Details!!
+	- Wifi Details
 	- Food Menu and Meal Times
 	- Challenges
 	- Prizes
@@ -42,7 +42,7 @@ Having a dedicated team for handling communications helps reduce redundancy and 
 Volunteers
 ---
 
-You and your volunteers will be engaging with the attendees throughout the event, for more details check out the Volunteer Section.
+You and your volunteers will be engaging with the attendees throughout the event, for more details check out the {{Volunteer Section}}.
 
 
 ---
@@ -62,7 +62,7 @@ While nothing really beats on-day human interaction, Slack is a good way to get 
 Signage
 ---
 
-
+How else do attendees find out where to go?  For places like the food area, hacking spaces, talks / events or sleeping rooms - **clear**directions to getting there is important.  Nothing is more frustrating than being lost in an unfamiliar environment.
 
 
 ---
