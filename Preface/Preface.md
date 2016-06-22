@@ -2,9 +2,9 @@
 name: Preface
 ---
 
-So you'd like to organize a hackathon!  Thats a huge step and we'd like to welcome you to the wonderous world of hackathon organising and managing organised chaos.  We all organize hackathons for different reasons, and while bigger and better seems appealing - so is the joy of building a community that facilitates the meeting of like-minded people to share ideas and build awesome projects!  That reason will influence some of the key decisions you'll make while organizing the event!
+So you'd like to organize a hackathon!  Thats a huge step and we'd like to welcome you to the wonderous world of hackathon organising and managing organised chaos.  We all organize hackathons for different reasons, and while bigger and better seems appealing - so is the joy of building a community that facilitates the meeting of like-minded people to share ideas and build awesome projects!  That reason will influence some of the key decisions you will make while organizing the event!
 
-To that end, this guide should cover many of the issues you'll need to tackle while organising a hackathon.  It's split into the following segments:
+This guide should cover many of the issues you'll face before, during and after the hackathon and help make for an overall smoother attendee experience.  The guide is split into the following segments:
 
 - Preface (You're here aren't you?)
 - Pre-Planning
