@@ -64,7 +64,16 @@ Signage
 
 How else do attendees find out where to go?  For places like the food area, hacking spaces, talks / events or sleeping rooms - **clear**directions to getting there is important.  Nothing is more frustrating than being lost in an unfamiliar environment.
 
+- Scout your venue and get an estimate of how many signs need to be printed
+	- Make sure the signs are frequent enough so people aren't too confused 
+	- Check if the venue's walls are easily damaged by sticky-tape / blu-tack
+- Large enough print and simple fonts so they can be easily spotted from afar.
+
 
 ---
 Announcements
 ---
+
+- Is there a Public Announcement System in the venue?
+	- Microphones - Wired / Wireless?
+	- Does the PA System reach throughout the hacking spaces?
