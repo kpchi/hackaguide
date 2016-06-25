@@ -1,69 +1,46 @@
 <!doctype html>
 <html>
-    <head>
-        <title>Hackaguide</title>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link type="text/css" rel="stylesheet" href="main.css" />
-    </head>
-    <body>
-        <header>
-            <h1>Hackaguide</h1>
-            <h2>A guide to running your own hackathon.</h2>
-        </header>
-        <div class="main">
-            <section class="toc">
-                <h2>Contents</h2>
-                <ul>
-                    <li><a href="#section-Pre-Planning">Pre-Planning</a>
-                        <ul>
-                                <li><a href="#section-Pre-Planning-0">Attendee Communication</a></li>
-                                <li><a href="#section-Pre-Planning-1">Food</a></li>
-                                <li><a href="#section-Pre-Planning-2">Judging Process</a></li>
-                                <li><a href="#section-Pre-Planning-3">Logistics</a></li>
-                                <li><a href="#section-Pre-Planning-4">Marketing</a></li>
-                                <li><a href="#section-Pre-Planning-5">Schedule</a></li>
-                                <li><a href="#section-Pre-Planning-6">Sleeping &amp; Contemplation Rooms</a></li>
-                                <li><a href="#section-Pre-Planning-7">Sponsors</a></li>
-                                <li><a href="#section-Pre-Planning-8">Ticketing</a></li>
-                                <li><a href="#section-Pre-Planning-9">Venue</a></li>
-                                <li><a href="#section-Pre-Planning-10">WiFi</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="#section-On-Day Execution">On-Day Execution</a>
-                        <ul>
-                                <li><a href="#section-On-Day Execution-0">Attendee Communication</a></li>
-                                <li><a href="#section-On-Day Execution-1">Food</a></li>
-                                <li><a href="#section-On-Day Execution-2">Judging Process</a></li>
-                                <li><a href="#section-On-Day Execution-3">Logistics</a></li>
-                                <li><a href="#section-On-Day Execution-4">Marketing</a></li>
-                                <li><a href="#section-On-Day Execution-5">Schedule</a></li>
-                                <li><a href="#section-On-Day Execution-6">Sleeping &amp; Contemplation Rooms</a></li>
-                                <li><a href="#section-On-Day Execution-7">Sponsors</a></li>
-                                <li><a href="#section-On-Day Execution-8">Ticketing</a></li>
-                                <li><a href="#section-On-Day Execution-9">Venue</a></li>
-                                <li><a href="#section-On-Day Execution-10">Wifi</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="#section-Post-Event">Post-Event</a>
-                        <ul>
-                                <li><a href="#section-Post-Event-0">Attendee Communication</a></li>
-                                <li><a href="#section-Post-Event-1">Logistics</a></li>
-                                <li><a href="#section-Post-Event-2">Sponsors</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="#section-Optional">Optional</a>
-                        <ul>
-                                <li><a href="#section-Optional-0">Controversial</a></li>
-                        </ul>
-                    </li>
-                </ul>
-            </section>
-            <article>
-                    <h2 id="section-Pre-Planning">Pre-Planning</h2>
-                        <section id="section-Pre-Planning-0" data-title="Attendee Communication">
-                            <h3 class="sr-hidden">Attendee Communication</h3>
-                            <hr>
+
+<head>
+    <title>Hackaguide</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+    <style>
+        .stuck {
+            position: fixed;
+            top: 0;
+            right: 0;
+        }
+        #sidebar {
+            max-height: 100%;
+            overflow-y: scroll;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container-fluid">
+            <h1 class="display-3">Hackaguide</h1>
+            <p class="lead">A guide to running your own hackathon.</p>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-8" id="accordion" role="tablist" aria-multiselectable="true">
+                    <h2 id="section-Pre-Planning" class="panel-title">Pre-Planning</h2>
+                        <a id="link-Pre-Planning-0"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-Pre-Planning-0" data-title="Attendee Communication">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-Pre-Planning-0" aria-expanded="false" aria-controls="collapse-Pre-Planning-0">
+                                        Attendee Communication
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-Pre-Planning-0" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionPre-Planning-0">
+                                <hr>
 <h2 id="volunteer-helpdesk">Volunteer Helpdesk</h2>
 <hr>
 <h2 id="announcements">Announcements</h2>
@@ -81,10 +58,19 @@
 <li>Signage</li>
 </ul>
 
-                        </section>
-                        <section id="section-Pre-Planning-1" data-title="Food">
-                            <h3 class="sr-hidden">Food</h3>
-                            <p><strong>ASSUMPTION</strong>: 24 Hour hackathon, starting Saturday Morning and ending Sunday evening.</p>
+                            </div>
+                        </div>
+                        <a id="link-Pre-Planning-1"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-Pre-Planning-1" data-title="Food">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-Pre-Planning-1" aria-expanded="false" aria-controls="collapse-Pre-Planning-1">
+                                        Food
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-Pre-Planning-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionPre-Planning-1">
+                                <p><strong>ASSUMPTION</strong>: 24 Hour hackathon, starting Saturday Morning and ending Sunday evening.</p>
 <ul>
 <li>Saturday: Breakfast (Optional, good to have)  </li>
 <li>Saturday: Lunch  </li>
@@ -205,34 +191,97 @@
 <br><br>It’s worth doing them every hour or two, and make sure the bin bags you’ve purchased aren’t too flimsy.  Having a mix of shudderworthy contents spill all over you is a surefire way to spoil an otherwise good hackathon.
 <br><br>Which is also a good reason to get hand sanitiser and disposable gloves!</p>
 
-                        </section>
-                        <section id="section-Pre-Planning-2" data-title="Judging Process">
-                            <h3 class="sr-hidden">Judging Process</h3>
-                            
-                        </section>
-                        <section id="section-Pre-Planning-3" data-title="Logistics">
-                            <h3 class="sr-hidden">Logistics</h3>
-                            
-                        </section>
-                        <section id="section-Pre-Planning-4" data-title="Marketing">
-                            <h3 class="sr-hidden">Marketing</h3>
-                            
-                        </section>
-                        <section id="section-Pre-Planning-5" data-title="Schedule">
-                            <h3 class="sr-hidden">Schedule</h3>
-                            
-                        </section>
-                        <section id="section-Pre-Planning-6" data-title="Sleeping &amp; Contemplation Rooms">
-                            <h3 class="sr-hidden">Sleeping &amp; Contemplation Rooms</h3>
-                            
-                        </section>
-                        <section id="section-Pre-Planning-7" data-title="Sponsors">
-                            <h3 class="sr-hidden">Sponsors</h3>
-                            
-                        </section>
-                        <section id="section-Pre-Planning-8" data-title="Ticketing">
-                            <h3 class="sr-hidden">Ticketing</h3>
-                            <p>Please note this guide is Eventbrite First-Come-First-Served (FCFS)-centric, there are some theoretical aspects here worth taking note of.  See Debatable.</p>
+                            </div>
+                        </div>
+                        <a id="link-Pre-Planning-2"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-Pre-Planning-2" data-title="Judging Process">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-Pre-Planning-2" aria-expanded="false" aria-controls="collapse-Pre-Planning-2">
+                                        Judging Process
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-Pre-Planning-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionPre-Planning-2">
+                                
+                            </div>
+                        </div>
+                        <a id="link-Pre-Planning-3"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-Pre-Planning-3" data-title="Logistics">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-Pre-Planning-3" aria-expanded="false" aria-controls="collapse-Pre-Planning-3">
+                                        Logistics
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-Pre-Planning-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionPre-Planning-3">
+                                
+                            </div>
+                        </div>
+                        <a id="link-Pre-Planning-4"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-Pre-Planning-4" data-title="Marketing">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-Pre-Planning-4" aria-expanded="false" aria-controls="collapse-Pre-Planning-4">
+                                        Marketing
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-Pre-Planning-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionPre-Planning-4">
+                                
+                            </div>
+                        </div>
+                        <a id="link-Pre-Planning-5"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-Pre-Planning-5" data-title="Schedule">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-Pre-Planning-5" aria-expanded="false" aria-controls="collapse-Pre-Planning-5">
+                                        Schedule
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-Pre-Planning-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionPre-Planning-5">
+                                
+                            </div>
+                        </div>
+                        <a id="link-Pre-Planning-6"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-Pre-Planning-6" data-title="Sleeping &amp; Contemplation Rooms">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-Pre-Planning-6" aria-expanded="false" aria-controls="collapse-Pre-Planning-6">
+                                        Sleeping &amp; Contemplation Rooms
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-Pre-Planning-6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionPre-Planning-6">
+                                
+                            </div>
+                        </div>
+                        <a id="link-Pre-Planning-7"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-Pre-Planning-7" data-title="Sponsors">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-Pre-Planning-7" aria-expanded="false" aria-controls="collapse-Pre-Planning-7">
+                                        Sponsors
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-Pre-Planning-7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionPre-Planning-7">
+                                
+                            </div>
+                        </div>
+                        <a id="link-Pre-Planning-8"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-Pre-Planning-8" data-title="Ticketing">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-Pre-Planning-8" aria-expanded="false" aria-controls="collapse-Pre-Planning-8">
+                                        Ticketing
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-Pre-Planning-8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionPre-Planning-8">
+                                <p>Please note this guide is Eventbrite First-Come-First-Served (FCFS)-centric, there are some theoretical aspects here worth taking note of.  See Debatable.</p>
 <hr>
 <h2 id="pre-registration">Pre-registration</h2>
 <ul>
@@ -348,14 +397,32 @@
 </li>
 </ul>
 
-                        </section>
-                        <section id="section-Pre-Planning-9" data-title="Venue">
-                            <h3 class="sr-hidden">Venue</h3>
-                            
-                        </section>
-                        <section id="section-Pre-Planning-10" data-title="WiFi">
-                            <h3 class="sr-hidden">WiFi</h3>
-                            <hr>
+                            </div>
+                        </div>
+                        <a id="link-Pre-Planning-9"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-Pre-Planning-9" data-title="Venue">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-Pre-Planning-9" aria-expanded="false" aria-controls="collapse-Pre-Planning-9">
+                                        Venue
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-Pre-Planning-9" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionPre-Planning-9">
+                                
+                            </div>
+                        </div>
+                        <a id="link-Pre-Planning-10"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-Pre-Planning-10" data-title="WiFi">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-Pre-Planning-10" aria-expanded="false" aria-controls="collapse-Pre-Planning-10">
+                                        WiFi
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-Pre-Planning-10" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionPre-Planning-10">
+                                <hr>
 <h2 id="leases-and-bandwidth">Leases and Bandwidth</h2>
 <ul>
 <li>Number of devices?<ul>
@@ -433,11 +500,20 @@
 </li>
 </ul>
 
-                        </section>
-                    <h2 id="section-On-Day Execution">On-Day Execution</h2>
-                        <section id="section-On-Day Execution-0" data-title="Attendee Communication">
-                            <h3 class="sr-hidden">Attendee Communication</h3>
-                            <hr>
+                            </div>
+                        </div>
+                    <h2 id="section-On-Day Execution" class="panel-title">On-Day Execution</h2>
+                        <a id="link-On-Day Execution-0"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-On-Day Execution-0" data-title="Attendee Communication">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-On-Day Execution-0" aria-expanded="false" aria-controls="collapse-On-Day Execution-0">
+                                        Attendee Communication
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-On-Day Execution-0" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionOn-Day Execution-0">
+                                <hr>
 <h2 id="volunteer-helpdesk">Volunteer Helpdesk</h2>
 <hr>
 <h2 id="announcements">Announcements</h2>
@@ -455,10 +531,19 @@
 <li>Signage</li>
 </ul>
 
-                        </section>
-                        <section id="section-On-Day Execution-1" data-title="Food">
-                            <h3 class="sr-hidden">Food</h3>
-                            <hr>
+                            </div>
+                        </div>
+                        <a id="link-On-Day Execution-1"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-On-Day Execution-1" data-title="Food">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-On-Day Execution-1" aria-expanded="false" aria-controls="collapse-On-Day Execution-1">
+                                        Food
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-On-Day Execution-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionOn-Day Execution-1">
+                                <hr>
 <h2 id="attendee-dietary-requirements">Attendee Dietary Requirements</h2>
 <ul>
 <li>Compare list of checked-in attendees against original attendee list<ul>
@@ -507,34 +592,97 @@
 <li>Worth distributing Redbull + Water to hackers late at night (12am to 6am).  Hackers won’t want to leave their seats / break out of the zone.</li>
 </ul>
 
-                        </section>
-                        <section id="section-On-Day Execution-2" data-title="Judging Process">
-                            <h3 class="sr-hidden">Judging Process</h3>
-                            
-                        </section>
-                        <section id="section-On-Day Execution-3" data-title="Logistics">
-                            <h3 class="sr-hidden">Logistics</h3>
-                            
-                        </section>
-                        <section id="section-On-Day Execution-4" data-title="Marketing">
-                            <h3 class="sr-hidden">Marketing</h3>
-                            
-                        </section>
-                        <section id="section-On-Day Execution-5" data-title="Schedule">
-                            <h3 class="sr-hidden">Schedule</h3>
-                            
-                        </section>
-                        <section id="section-On-Day Execution-6" data-title="Sleeping &amp; Contemplation Rooms">
-                            <h3 class="sr-hidden">Sleeping &amp; Contemplation Rooms</h3>
-                            
-                        </section>
-                        <section id="section-On-Day Execution-7" data-title="Sponsors">
-                            <h3 class="sr-hidden">Sponsors</h3>
-                            
-                        </section>
-                        <section id="section-On-Day Execution-8" data-title="Ticketing">
-                            <h3 class="sr-hidden">Ticketing</h3>
-                            <hr>
+                            </div>
+                        </div>
+                        <a id="link-On-Day Execution-2"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-On-Day Execution-2" data-title="Judging Process">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-On-Day Execution-2" aria-expanded="false" aria-controls="collapse-On-Day Execution-2">
+                                        Judging Process
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-On-Day Execution-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionOn-Day Execution-2">
+                                
+                            </div>
+                        </div>
+                        <a id="link-On-Day Execution-3"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-On-Day Execution-3" data-title="Logistics">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-On-Day Execution-3" aria-expanded="false" aria-controls="collapse-On-Day Execution-3">
+                                        Logistics
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-On-Day Execution-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionOn-Day Execution-3">
+                                
+                            </div>
+                        </div>
+                        <a id="link-On-Day Execution-4"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-On-Day Execution-4" data-title="Marketing">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-On-Day Execution-4" aria-expanded="false" aria-controls="collapse-On-Day Execution-4">
+                                        Marketing
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-On-Day Execution-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionOn-Day Execution-4">
+                                
+                            </div>
+                        </div>
+                        <a id="link-On-Day Execution-5"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-On-Day Execution-5" data-title="Schedule">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-On-Day Execution-5" aria-expanded="false" aria-controls="collapse-On-Day Execution-5">
+                                        Schedule
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-On-Day Execution-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionOn-Day Execution-5">
+                                
+                            </div>
+                        </div>
+                        <a id="link-On-Day Execution-6"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-On-Day Execution-6" data-title="Sleeping &amp; Contemplation Rooms">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-On-Day Execution-6" aria-expanded="false" aria-controls="collapse-On-Day Execution-6">
+                                        Sleeping &amp; Contemplation Rooms
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-On-Day Execution-6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionOn-Day Execution-6">
+                                
+                            </div>
+                        </div>
+                        <a id="link-On-Day Execution-7"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-On-Day Execution-7" data-title="Sponsors">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-On-Day Execution-7" aria-expanded="false" aria-controls="collapse-On-Day Execution-7">
+                                        Sponsors
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-On-Day Execution-7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionOn-Day Execution-7">
+                                
+                            </div>
+                        </div>
+                        <a id="link-On-Day Execution-8"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-On-Day Execution-8" data-title="Ticketing">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-On-Day Execution-8" aria-expanded="false" aria-controls="collapse-On-Day Execution-8">
+                                        Ticketing
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-On-Day Execution-8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionOn-Day Execution-8">
+                                <hr>
 <h2 id="check-in">Check-In</h2>
 <ul>
 <li>Multiple tables for registration</li>
@@ -574,14 +722,32 @@
 </li>
 </ul>
 
-                        </section>
-                        <section id="section-On-Day Execution-9" data-title="Venue">
-                            <h3 class="sr-hidden">Venue</h3>
-                            
-                        </section>
-                        <section id="section-On-Day Execution-10" data-title="Wifi">
-                            <h3 class="sr-hidden">Wifi</h3>
-                            <hr>
+                            </div>
+                        </div>
+                        <a id="link-On-Day Execution-9"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-On-Day Execution-9" data-title="Venue">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-On-Day Execution-9" aria-expanded="false" aria-controls="collapse-On-Day Execution-9">
+                                        Venue
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-On-Day Execution-9" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionOn-Day Execution-9">
+                                
+                            </div>
+                        </div>
+                        <a id="link-On-Day Execution-10"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-On-Day Execution-10" data-title="Wifi">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-On-Day Execution-10" aria-expanded="false" aria-controls="collapse-On-Day Execution-10">
+                                        Wifi
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-On-Day Execution-10" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionOn-Day Execution-10">
+                                <hr>
 <h2 id="contact-details">Contact Details</h2>
 <ul>
 <li>Contact details of On-site Helpdesk / Support staff</li>
@@ -610,24 +776,60 @@
   2) Execute failover plan</li>
 </ul>
 
-                        </section>
-                    <h2 id="section-Post-Event">Post-Event</h2>
-                        <section id="section-Post-Event-0" data-title="Attendee Communication">
-                            <h3 class="sr-hidden">Attendee Communication</h3>
-                            
-                        </section>
-                        <section id="section-Post-Event-1" data-title="Logistics">
-                            <h3 class="sr-hidden">Logistics</h3>
-                            
-                        </section>
-                        <section id="section-Post-Event-2" data-title="Sponsors">
-                            <h3 class="sr-hidden">Sponsors</h3>
-                            
-                        </section>
-                    <h2 id="section-Optional">Optional</h2>
-                        <section id="section-Optional-0" data-title="Controversial">
-                            <h3 class="sr-hidden">Controversial</h3>
-                            <ul>
+                            </div>
+                        </div>
+                    <h2 id="section-Post-Event" class="panel-title">Post-Event</h2>
+                        <a id="link-Post-Event-0"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-Post-Event-0" data-title="Attendee Communication">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-Post-Event-0" aria-expanded="false" aria-controls="collapse-Post-Event-0">
+                                        Attendee Communication
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-Post-Event-0" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionPost-Event-0">
+                                
+                            </div>
+                        </div>
+                        <a id="link-Post-Event-1"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-Post-Event-1" data-title="Logistics">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-Post-Event-1" aria-expanded="false" aria-controls="collapse-Post-Event-1">
+                                        Logistics
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-Post-Event-1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionPost-Event-1">
+                                
+                            </div>
+                        </div>
+                        <a id="link-Post-Event-2"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-Post-Event-2" data-title="Sponsors">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-Post-Event-2" aria-expanded="false" aria-controls="collapse-Post-Event-2">
+                                        Sponsors
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-Post-Event-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionPost-Event-2">
+                                
+                            </div>
+                        </div>
+                    <h2 id="section-Optional" class="panel-title">Optional</h2>
+                        <a id="link-Optional-0"></a>
+                        <div class="panel panel-default">
+                            <div role="tab" class="panel-heading" id="section-Optional-0" data-title="Controversial">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-Optional-0" aria-expanded="false" aria-controls="collapse-Optional-0">
+                                        Controversial
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse-Optional-0" class="panel-collapse collapse" role="tabpanel" aria-labelledby="#sectionOptional-0">
+                                <ul>
 <li><strong>Attendee Entitlement</strong><br>  This is fairly controversial, cover the basics first.
   <br><br>  The easiest introduction to this topic is having MLH Coaches to various hackathons.  Once introduced, many people never considered the cost of bailing out of it last minute and never showed.  Despite measures taken to let hackers know that such decisions had a financial cost and reduce attrition - not much progress were made.  Thus when coaches to various hackathons were killed, there was a huge outcry as precedent had been set and people ‘expected’ it to be there.
   <br><br>  Similarly this applies to swag.</li>
@@ -641,9 +843,115 @@
 </li>
 </ul>
 
-                        </section>
+                            </div>
+                        </div>
+            </div>
+            <div id="sidebar" class="col-md-4">
+                <h2>Contents</h2>
+                <ul>
+                        <li><a href="#section-Pre-Planning">Pre-Planning</a>
+                            <ul>
+                                    <li><a class="toc-item" href="#link-Pre-Planning-0">
+                                            Attendee Communication
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-Pre-Planning-1">
+                                            Food
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-Pre-Planning-2">
+                                            Judging Process
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-Pre-Planning-3">
+                                            Logistics
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-Pre-Planning-4">
+                                            Marketing
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-Pre-Planning-5">
+                                            Schedule
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-Pre-Planning-6">
+                                            Sleeping &amp; Contemplation Rooms
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-Pre-Planning-7">
+                                            Sponsors
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-Pre-Planning-8">
+                                            Ticketing
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-Pre-Planning-9">
+                                            Venue
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-Pre-Planning-10">
+                                            WiFi
+                                        </a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#section-On-Day Execution">On-Day Execution</a>
+                            <ul>
+                                    <li><a class="toc-item" href="#link-On-Day Execution-0">
+                                            Attendee Communication
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-On-Day Execution-1">
+                                            Food
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-On-Day Execution-2">
+                                            Judging Process
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-On-Day Execution-3">
+                                            Logistics
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-On-Day Execution-4">
+                                            Marketing
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-On-Day Execution-5">
+                                            Schedule
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-On-Day Execution-6">
+                                            Sleeping &amp; Contemplation Rooms
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-On-Day Execution-7">
+                                            Sponsors
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-On-Day Execution-8">
+                                            Ticketing
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-On-Day Execution-9">
+                                            Venue
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-On-Day Execution-10">
+                                            Wifi
+                                        </a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#section-Post-Event">Post-Event</a>
+                            <ul>
+                                    <li><a class="toc-item" href="#link-Post-Event-0">
+                                            Attendee Communication
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-Post-Event-1">
+                                            Logistics
+                                        </a></li>
+                                    <li><a class="toc-item" href="#link-Post-Event-2">
+                                            Sponsors
+                                        </a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#section-Optional">Optional</a>
+                            <ul>
+                                    <li><a class="toc-item" href="#link-Optional-0">
+                                            Controversial
+                                        </a></li>
+                            </ul>
+                        </li>
+                </ul>
+            </div>
         </div>
-        <script src="https://cdn.jsdelivr.net/jquery/2.2.2/jquery.min.js"></script>
-        <script src="main.js"></script>
-    </body>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js" integrity="sha384-vZ2WRJMwsjRMW/8U7i6PWi6AlO1L79snBrmgiDpgIWJ82z8eA5lenwvxbMV1PAh7" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.0/jquery.waypoints.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.0/shortcuts/sticky.min.js"></script>
+    <script src="main.js"></script>
+</body>
+
 </html>
