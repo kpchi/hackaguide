@@ -9,7 +9,7 @@ How do you let your attendees know what's going on?  With so many events and wor
 Welcome Pack
 ---
 
-The guide you make for your participants!  This is really helpful to let your attendees know what to expect beforehand and conveniently centralising information for your attendees.  Information you may like to put in the Welcome Pack include:
+The information pack you have for your participants!  This will be really helpful to let your attendees know what to expect beforehand and conveniently centralising information for your attendees.  Information you may like to put in the Welcome Pack include:
 	- Venue-related: Floor plans, fire exits, building access and how to get to the venue
 	- Overall Schedule
 	- Workshop Specific Schedule
@@ -42,7 +42,7 @@ Having a dedicated team for handling such communications helps reduce redundancy
 Volunteers
 ---
 
-You and your volunteers will be engaging with the attendees throughout the event, for more details check out the {{Volunteer Section}}.
+You and your volunteers will be engaging with the attendees throughout the event, for more details check out the [Volunteer Section](kpchi.github.io/hackaguide/Volunteers.html "Volunteer Section").
 
 
 ---
@@ -55,19 +55,20 @@ Ahhh, the ubiquitous [[omnipresent?]] Slack.  For the uninitiated, Slack is a me
 	- Sponsor-specific channels.  Discussions, Q&A, sponsor specific announcements can all be done here.
 	- Spotify Integration?  If you've got a Spotify playlist playing, attendees can add to it.  (Make sure the music doesn't breach your Code of Conduct though)
 
-While nothing really beats on-day human interaction, Slack is a good way to get pre-Event hype going.  By inviting attendees and sponsors onto the Event Slack early on, everyone can talk to each other and get to know more about the event and its sponsors.
+While nothing really beats on-day human interaction, Slack is a good way to get pre-Event hype going.  By inviting attendees and sponsors onto the Event Slack early on, everyone can talk to each other and get to know more about the event, its sponsors etc.
 
 
 ---
 Signage
 ---
 
-How else do attendees find out where to go?  For places like the food area, hacking spaces, talks / events or sleeping rooms - **clear** directions to getting there is important.  Nothing is more frustrating than being lost in an unfamiliar environment.
+You've definitely been annoyed at unclear, confusing signs before.  So how else do you ensure attendees know where to go?  Places like the food area, hacking spaces, talks / events or sleeping rooms - **clear** directions to getting there are important.  Nothing is more frustrating than being lost in an unfamiliar environment.
 
-- Scout your venue and get an estimate of how many signs need to be printed
-	- Make sure the signs are frequent enough so people aren't too confused 
-	- Check if the venue's walls are easily damaged by sticky-tape / blu-tack
-- Large enough print and simple fonts so they can be easily spotted from afar.
+- Scout your venue and get an estimate of how many signs need to be printed and where they can be placed
+- When printing signs:
+	- Make sure the signs are frequent enough so people aren't lost.
+	- Check if the venue's walls can be easily damaged by sticky-tape / blu-tack.
+	- Ensure large prints and simple fonts so they can be easily spotted from afar.
 
 
 ---

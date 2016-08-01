@@ -70,15 +70,15 @@ And here come the nibbles and elixirs of life that keep hackers sustained when a
 - Drinks
 	- Convenience here is key
 	- Soda cans rather than 1.5L bottles with cups
-	- Redbull (See Sponsors Section) / Energy Drink
+	- Redbull (See [Sponsors Section](kpchi.github.io/hackaguide/Pre-Planning/Sponsors "Sponsors")) / Energy Drink
 	- Water bottles (500ml)
 	- Coffee, Tea, Hot Chocolate
 	- Milk (Dairy and Soy)
 
 - Method of Delivery
 	- Snacks available at fixed locations
-		- Requires regular restocking (see Restocking Schedule)
-		- No way to control how much each hacker takes (See [Optional](index.html/#section-Optional "Optional"))
+		- Requires regular restocking (see [Restocking Schedule](kpchi.github.io/hackaguide/Pre-Planning/Food.html#restocking-schedule "Restocking Schedule"))
+		- No way to control how much each hacker takes (See [Optional](kpchi.github.io/hackaguide/Optional "Optional"))
 	- Snacks available on regular rounds
 		- Snacks go on rounds every so often
 		- Possible that one or more carts required to prevent snacks that round from running out.
@@ -102,7 +102,7 @@ Restocking Schedule
 - Dependent on the method of delivery, fixed locations can be regularly restocked or restocked as required.  Regular rounds and the KurtCart can be restocked when the round is finished.
 - Debate between regular restock and restocking as required, and regulating restocks.
 	- **Budget dependent**, how much can you afford to release each restock and how much buffer budget do you have left?
-	- **Regulating** before and after meals (See [Optional](index.html#section-Optional "Optional"))
+	- **Regulating** before and after meals (See [Optional](kpchi.github.io/hackaguide/Optional "Optional"))
 
 
 ---
