@@ -1,6 +1,4 @@
----
-name: Food
----
+# Food
 
 **ASSUMPTION**: 24 Hour hackathon, starting Saturday Morning and ending Sunday evening.
 
@@ -10,12 +8,10 @@ name: Food
 - Sunday  : Midnight Meal  
 - Sunday  : Breakfast  
 - Sunday  : Lunch
-<br>
-<br>
 
 Things worth noting:  
 
-- Don't be afraid to experiment!  Yes some foods are hit or miss, but its worth going beyond just the usual local norms like pizza, burritos, noodles, pies etc.
+- Don't be afraid to experiment!  Yes some foods can be hit and miss, but it's worth going beyond just the usual local norms like pizza, burritos, noodles, pies etc.
 - List all the tasty food you are providing on the Attendee Welcome Pack!  Hackers are more likely to let you know about their allergies!
 - Don't load up on just carbs, hackers are humans too!  Be nice and provide some healthy, nutritious food to sustain them.
 - Make sure the food team has accounted for the various dietary requirements and allergies!  People doing ticketing should talk to the food team.
@@ -24,16 +20,14 @@ Things worth noting:
 	- Vegetarian, Vegan
 	- Lactose Intolerant
 	- Gluten-Free
-- Make sure you have a list of stores / wholesalers near you, their opening & closing times and roughly what they carry!  This is especially helpful for restocking or for buying meals for vegetarian, vegan, lactose intolerant, gluten-free attendees.  If you have a low number of them, someone could simply head out to get food for them.
+- Make sure you have a list of stores / wholesalers near you, their opening & closing times and what they stock!  This is really helpful for restocking or buying meals for attendees with dietary requirements.  If you have a low number of them, someone could easily head out to purchase such food.
 
 
----
-Mealtime Release
----
+## Mealtime Release
 
-Ahh the sight of a hungry horde of hackers going for food is often an intimidating one.  How do you release food making sure everyone gets a fair share and that they don't queue too long for food, a hungry hacker = grumpy hacker!
-<br >  
-To that effect, the batch release system usually works well.  Determining the batches (range of table numbers, location in hacking space or some other automagical way) and reducing them to a manageable number is up to you!  Below is an example you might find useful, but use what works for you!
+Ahh the sight of a hungry horde of hackers going for food is often an intimidating one.  How do you release food ensuring attendees don't queue too long for food? Or making sure everyone has their fair share?  A hungry hacker = grumpy hacker!
+
+To that effect, the batch release system usually works well.  Determining a batch size (range of table numbers, hackspace location or some other automagical way), and reducing that to a manageable number is up to you!  Below is an example you might find useful, but use what works for you!
 
 - Sponsors, Guest Judges first (before specified meal time begins)
 - Call the batch!  Make sure the volunteers know the wristband identification system, allowing them to direct attendees with allergies or dietary requirements to the right section.
@@ -50,12 +44,10 @@ To that effect, the batch release system usually works well.  Determining the ba
 
 - Consider keeping non-vegetarian and vegetarian options separate.
 
-- Have labels in front of the food describing it, this reduces any confusion attendees might have and volunteers won't have to repeatedly answer the same question.
+- Have labels in front of the food describing it.  This reduces any confusion attendees might have and volunteers won't have to repeatedly answer the same question.
 
 
----
-Snacks & Drinks
----
+## Snacks & Drinks
 
 And here come the nibbles and elixirs of life that keep hackers sustained when all else has passed.  Hackers need energy to sustain when they're working and staying up all-night, so remember to get high-energy items!  But that doesn't mean only providing Redbull, there are high-energy fruits as well like bananas and pears.  Below is a list of things you can consider.
 
@@ -99,7 +91,7 @@ And here come the nibbles and elixirs of life that keep hackers sustained when a
 Restocking Schedule
 ---
 
-- Dependent on the method of delivery, fixed locations can be regularly restocked or restocked as required.  Regular rounds and the KurtCart can be restocked when the round is finished.
+- Dependent on the method of delivery, fixed locations can be regularly restocked or restocked as required.  Regular rounds and the KurtCart can get restocked when the round is finished.
 - Debate between regular restock and restocking as required, and regulating restocks.
 	- **Budget dependent**, how much can you afford to release each restock and how much buffer budget do you have left?
 	- **Regulating** before and after meals (See [Optional](kpchi.github.io/hackaguide/Optional "Optional"))

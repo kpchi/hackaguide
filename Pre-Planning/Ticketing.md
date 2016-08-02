@@ -1,20 +1,14 @@
----
-name: Ticketing
----
+# Ticketing
 
 Please note this guide is Eventbrite First-Come First-Served (FCFS)-centric, there are some theoretical aspects here worth taking note of.  See Debatable.
 
----
-Pre-registration
----
+## Pre-registration
 
 - To gain quick idea of interest before actually releasing tickets.
 - Allows an idea on priority release for certain groups if needed.
 
 
----
-Ticket Release
----
+## Ticket Release
 
 ASSUMPTION: FCFS ticket style only via Eventbrite. See Alternative Methods for some other alternative ticketing methods.
 
@@ -23,19 +17,16 @@ ASSUMPTION: FCFS ticket style only via Eventbrite. See Alternative Methods for s
 	- Keep a rotation of ticket releases:
 		E.g.: Monday 1pm, Tuesday 2pm, Wednesday 3pm, Thursday 4pm, Friday 5pm.  This ensures the different segments are taken care of and people don't feel like they've been excluded.
 	- Ticket releases are announced via the Mailing List - this ensures people sign up to the mailing list and increases the 'hook' for (potential) attendees to keep track of whats going on in the newsletter / Mailing List.
--  Ensure that only 1 ticket can be purchased, not multiple at once.  Will be a nightmare for Registration if multiple purchases are allowed.  
+- Ensure that only 1 ticket can be purchased, not multiple at once.  Will be a nightmare for Registration if multiple purchases are allowed.  
 
 - Below are some Custom Questions you might want to ask amongst others:
 	- Any allergies, dietary requirements you need to be aware of?
 	- Any special requirements? (Medical, Accessibility)
 	- Are you Under-18? (This assumes you're allowing U-18s to participate)
-	- Do you have access to EduRoam / <X University Network>
+	- Do you have access to EduRoam / {X University Network}
 	- First-time hackathon attendee?
 
-
----
-Access Codes
----
+## Access Codes
 
 - Usually meant to be for:
 	- Beginners
@@ -45,9 +36,7 @@ Access Codes
 		- Keep an active eye out on universities with only 1 or 2 students attending.  Ask them if they have friends who would like to come and provide enough tickets for them to form a team.
 
 
----
-Waitlist
----
+## Waitlist
 
 - Give people on the waitlist 24 hours to respond.
 - 3 days before the event, it would be better to prioritise people local or close to your hackathon (low travel costs)
@@ -56,9 +45,7 @@ Waitlist
 NOTE: Eventbrite has a weird bug where tickets released to waitlisted people are claimed but not taken off the waitlist.
 
 
----
-Alternative Methods
----
+## Alternative Methods
 
 - Type of ticket releases
 	- First-Comme First-Served Ticketing
@@ -67,7 +54,7 @@ Alternative Methods
 		- Lowest barrier to entry of the 3 methods listed down.  Applicants simply log-on to Eventbrite at the specified time, purchase (a free) ticket and done.
 		- Immediate and people can make plans straightaway
 		- Using batch-based ticketing helps maintain the interest in the event
-			- Also allows word to spread to non-insider groups.  However, this should be addressed during the initial batches to allow people travelling from afar to get cheap tickets.
+			- Also allows word to spread to non-insider groups.  However, this should be addressed during the initial batches to allow people traveling from afar to get cheap tickets.
 
 		Disadvantages: 
 		- Can become a case of who has the fastest internet speed / can click the fastest.
@@ -111,9 +98,7 @@ Alternative Methods
 			- Daunting to first-timers / beginners especially if they don't feel qualified.
 
 
----
-Things to Note
----
+## Things to Note
 
 - Accessibility to various groups 
 	- Individuals from groups under-represented in technology
