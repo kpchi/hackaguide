@@ -1,23 +1,17 @@
----
-name: Attendee Communication
----
+# Attendee Communication
 
----
-Volunteer Helpdesk
----
+### Volunteer Helpdesk
 
 
 
----
-Announcements
----
+
+### Announcements
 
 - Slack Announcement Channel
 - On-site announcements via Volunteers or Mic
 
 
----
-FAQ + Q&A
+### FAQ + Q&A
 ---
 
 - Welcome Pack

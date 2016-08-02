@@ -1,6 +1,4 @@
----
-name: Ticketing
----
+# Ticketing
 
 ---
 Check-In
