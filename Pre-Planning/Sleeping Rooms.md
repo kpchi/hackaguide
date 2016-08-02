@@ -7,12 +7,13 @@ Hackathons shouldn't be events of self-imposed torture (lack of sleep, post-hack
 - Do you have capacity for more than one sleeping rooms?  Do you have Under-18s present staying overnight?  If the answer to either is yes note:
 	- Nice touch to have gender specific sleeping rooms
 	- If Under-18s are present overnight, ensure they have separate sleeping rooms. Background-Checked Volunteers stationed outside Under-18 specific sleeping rooms
-- Provide sleeping Bags / Yoga Mats / Air Beds (make sure you have a pump handy!) depending on your budget.  If not, asking attendees to bring their own is also a possibility. 
+- Provide sleeping Bags / Yoga Mats / Air Beds (make sure you have an *electric* pump handy!) depending on your budget.  If not, asking attendees to bring their own is also a possibility. 
 - Is it going to be cold during the event?
+- Don't assume your sleeping areas will always be warm.
 	- Ensure that room heating is active at night, and check if it adjustable or is controlled by central heating.
 	- Provide or ask attendees to bring their own blankets.
 	- Have portable heaters available (ensure it doesn't breach Fire Safety!  See [Venue](kpchi.github.io/hackaguide/Pre-Planning/Venue "Venue"))
-- Air flow is important too!  
+- Air flow is important too!  Fresh air in sleeping rooms to prevent them from smelling like locker rooms is always welcome.
 
 Beyond that, there are other things such as noise and light pollution as well as privacy to be aware of:
 
@@ -20,6 +21,8 @@ Beyond that, there are other things such as noise and light pollution as well as
 	- Having heavy doors / curtains help block out some noise
 	- Keep sleeping areas away from main hacking spaces
 	- Avoid planning any mini-events near the sleeping area
+	- Make sleeping rooms **Alarm-free Zones**.  Let attendees know, and have a sign up stating as such.
+		- If you have manpower, vo
 
 - Light Pollution
 	- Be aware of where sunlight can stream in - having curtains over windows is ideal.
