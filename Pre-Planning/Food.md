@@ -23,7 +23,7 @@ Things worth noting:
 - Make sure you have a list of stores / wholesalers near you, their opening & closing times and what they stock!  This is really helpful for restocking or buying meals for attendees with dietary requirements.  If you have a low number of them, someone could easily head out to purchase such food.
 
 
-## Mealtime Release
+### Mealtime Release
 
 Ahh the sight of a hungry horde of hackers going for food is often an intimidating one.  How do you release food ensuring attendees don't queue too long for food? Or making sure everyone has their fair share?  A hungry hacker = grumpy hacker!
 
@@ -47,7 +47,7 @@ To that effect, the batch release system usually works well.  Determining a batc
 - Have labels in front of the food describing it.  This reduces any confusion attendees might have and volunteers won't have to repeatedly answer the same question.
 
 
-## Snacks & Drinks
+### Snacks & Drinks
 
 And here come the nibbles and elixirs of life that keep hackers sustained when all else has passed.  Hackers need energy to sustain when they're working and staying up all-night, so remember to get high-energy items!  But that doesn't mean only providing Redbull, there are high-energy fruits as well like bananas and pears.  Below is a list of things you can consider.
 
@@ -87,9 +87,7 @@ And here come the nibbles and elixirs of life that keep hackers sustained when a
 	- Have more than 1 kettle available if you're providing hot water / beverages / pot noodles.  
 
 
----
-Restocking Schedule
----
+### Restocking Schedule
 
 - Dependent on the method of delivery, fixed locations can be regularly restocked or restocked as required.  Regular rounds and the KurtCart can get restocked when the round is finished.
 - Debate between regular restock and restocking as required, and regulating restocks.
@@ -97,9 +95,7 @@ Restocking Schedule
 	- **Regulating** before and after meals (See [Optional](kpchi.github.io/hackaguide/Optional "Optional"))
 
 
----
-Rubbish Collection
----
+### Rubbish Collection
 
 A necessity at hackathons, considering how much consumables attendees go through during the entire event.  Tables have occassionally become a landfill just from Coke cans alone.
 <br>  

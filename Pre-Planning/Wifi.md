@@ -1,10 +1,6 @@
----
-name: WiFi
----
+# WiFi
 
----
-Leases and Bandwidth
----
+### Leases and Bandwidth
 
 - Number of devices?
 	- Multiply expected total no. of people on-site by 2.5 as a rough count of number of devices.
@@ -34,9 +30,7 @@ Leases and Bandwidth
 	- Any Distrbuted Denial of Service  measures venue's infrastructure might have that will affect the hackathon?
 
 
----
-Wifi Failover
----
+### Wifi Failover
 
 - Failover Planning
 	- What happens if WiFi goes down, are there ethernet ports available? 
@@ -49,18 +43,14 @@ Wifi Failover
 	- What do attendees have to do to conenct to the failover.
 
 
----
-On-Site Support
----
+### On-Site Support
 
 - On-site Support
 	- Anyone from venue's Network Admin team around on-site if something happens?
 	- (optional) Access to live information about how much bandwidth has been used and which protocols?  Done via SNMP Traps of the Wifi AP's
 
 
----
-External Internet Service Providers (ISPs)
----
+### External Internet Service Providers (ISPs)
 
 - External ISP Providers?
 	- Contact Sami re: Contract and Requirements

@@ -1,7 +1,6 @@
-
 # Sleeping & Contemplation Rooms
 
-## Sleeping / Resting areas
+### Sleeping / Resting areas
 
 Hackathons shouldn't be events of self-imposed torture (lack of sleep, post-hackathon illness, junk food overload etc).  So why not provide areas conducive to resting?  Here are some things to take note of:
 

@@ -2,13 +2,13 @@
 
 Please note this guide is Eventbrite First-Come First-Served (FCFS)-centric, there are some theoretical aspects here worth taking note of.  See Debatable.
 
-## Pre-registration
+### Pre-registration
 
 - To gain quick idea of interest before actually releasing tickets.
 - Allows an idea on priority release for certain groups if needed.
 
 
-## Ticket Release
+### Ticket Release
 
 ASSUMPTION: FCFS ticket style only via Eventbrite. See Alternative Methods for some other alternative ticketing methods.
 
@@ -26,7 +26,7 @@ ASSUMPTION: FCFS ticket style only via Eventbrite. See Alternative Methods for s
 	- Do you have access to EduRoam / {X University Network}
 	- First-time hackathon attendee?
 
-## Access Codes
+### Access Codes
 
 - Usually meant to be for:
 	- Beginners
@@ -36,7 +36,7 @@ ASSUMPTION: FCFS ticket style only via Eventbrite. See Alternative Methods for s
 		- Keep an active eye out on universities with only 1 or 2 students attending.  Ask them if they have friends who would like to come and provide enough tickets for them to form a team.
 
 
-## Waitlist
+### Waitlist
 
 - Give people on the waitlist 24 hours to respond.
 - 3 days before the event, it would be better to prioritise people local or close to your hackathon (low travel costs)
@@ -45,7 +45,7 @@ ASSUMPTION: FCFS ticket style only via Eventbrite. See Alternative Methods for s
 NOTE: Eventbrite has a weird bug where tickets released to waitlisted people are claimed but not taken off the waitlist.
 
 
-## Alternative Methods
+### Alternative Methods
 
 - Type of ticket releases
 	- First-Comme First-Served Ticketing
@@ -98,7 +98,7 @@ NOTE: Eventbrite has a weird bug where tickets released to waitlisted people are
 			- Daunting to first-timers / beginners especially if they don't feel qualified.
 
 
-## Things to Note
+### Things worth Noting
 
 - Accessibility to various groups 
 	- Individuals from groups under-represented in technology

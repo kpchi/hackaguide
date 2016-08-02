@@ -1,4 +1,2 @@
----
-name: Judging Process
----
+# Judging Process
 
