@@ -53,7 +53,7 @@ You and your volunteers will be engaging with the attendees throughout the event
 
 ### Slack
 
-Ahhh, the ubiquitous [[omnipresent?]] Slack.  For the uninitiated, Slack is a messaging and collaboration system for teams.  Its' many service integrations can be helpful for a variety of reasons like:
+Ahhh, the ubiquitous Slack.  For the uninitiated, Slack is a messaging and collaboration system for teams.  Its' many service integrations can be helpful for a variety of reasons like:
 	- Announcements for food, workshops / mini-events / talks and other cool stuff.
 	- Event-specific bot created specifically to answer questions like where different rooms are, sponsor challenges and schedule amongst others. [1]
 	- Sponsor-specific channels.  Discussions, Q&A, sponsor specific announcements can all be done here.
