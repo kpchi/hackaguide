@@ -15,7 +15,7 @@ ASSUMPTION: FCFS ticket style only via Eventbrite. See Alternative Methods for s
 - Release tickets about 6 weeks before the event
 - Multiple small batches, this keeps up the hype
 	- Keep a rotation of ticket releases:
-		E.g.: Monday 1pm, Tuesday 2pm, Wednesday 3pm, Thursday 4pm, Friday 5pm.  This ensures the different segments are taken care of and people don't feel like they've been excluded.
+		E.g.: Monday 1pm, Tuesday 3pm, Wednesday 4pm, Thursday 7pm, Friday 8pm.  This ensures the different segments are taken care of and people don't feel like they've been excluded.
 	- Ticket releases are announced via the Mailing List - this ensures people sign up to the mailing list and increases the 'hook' for (potential) attendees to keep track of whats going on in the newsletter / Mailing List.
 - Ensure that only 1 ticket can be purchased, not multiple at once.  Will be a nightmare for Registration if multiple purchases are allowed.  
 
