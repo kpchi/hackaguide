@@ -37,7 +37,7 @@ Things worth noting:
 
 ### Volunteer Helpdesk
 
-Plan to setup a Volunteer Helpdesk at an easily accessible location in your event.  The Helpdesk should be the main point of contact between Organisers, Volunteers, Sponsors and Attendees.  Aware of what's going on in the hackathon its responsibilities include:
+Plan to setup a Volunteer Helpdesk at an easily accessible location in your event.  The Helpdesk should be the main point of contact between Organisers, Volunteers, Sponsors and Attendees.  Aware of what's going on in the hackathon the helpdesk's responsibilities include:
 	- Answering questions on Slack, Social Media (Facebook, Twitter)
 	- Answering questions on-site	
 	- Directing people to the right mentors and vice-versa.
@@ -53,7 +53,7 @@ You and your volunteers will be engaging with the attendees throughout the event
 
 ### Slack
 
-Ahhh, the ubiquitous Slack.  For the uninitiated, Slack is a messaging and collaboration system for teams.  Its' many service integrations can be helpful for a variety of reasons like:
+Ahhh, the ubiquitous Slack.  For the uninitiated, Slack is a messaging and collaboration system for teams.  Its many service integrations can be helpful for a variety of reasons such as:
 	- Announcements for food, workshops / mini-events / talks and other cool stuff.
 	- Event-specific bot created specifically to answer questions like where different rooms are, sponsor challenges and schedule amongst others. [1]
 	- Sponsor-specific channels.  Discussions, Q&A, sponsor specific announcements can all be done here.

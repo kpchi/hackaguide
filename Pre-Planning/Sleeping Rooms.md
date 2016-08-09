@@ -1,4 +1,4 @@
-# Sleeping & Contemplation Rooms
+# Sleeping Rooms
 
 ### Sleeping / Resting areas
 
@@ -13,7 +13,7 @@ Hackathons shouldn't be events of self-imposed torture (lack of sleep, post-hack
 	- Ensure that room heating is active at night, and check if it adjustable or is controlled by central heating.
 	- Provide or ask attendees to bring their own blankets.
 	- Have portable heaters available (ensure it doesn't breach Fire Safety!  See [Venue](kpchi.github.io/hackaguide/Pre-Planning/Venue "Venue"))
-- Air flow is important too!  Fresh air in sleeping rooms to prevent them from smelling like locker rooms is always welcome.
+- Air flow to introduce fresh air is important too!  Waking up to the sleeping room smelling like a locker room isn't always pleasant.
 
 Beyond that, there are other things such as noise and light pollution as well as privacy to be aware of:
 

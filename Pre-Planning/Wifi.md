@@ -1,6 +1,6 @@
 # WiFi
 
-### Leases and Bandwidth
+### Bandwidth, Leases and Filtering
 
 - Number of devices?
 	- Multiply expected total no. of people on-site by 2.5 as a rough count of number of devices.

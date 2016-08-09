@@ -75,7 +75,8 @@ And here come the nibbles and elixirs of life that keep hackers sustained when a
 		- Snacks go on rounds every so often
 		- Possible that one or more carts required to prevent snacks that round from running out.
 		- Volunteers can interact more with attendees!
-	- Snacks available via KurtCart (Delivery on tweet) [Idea stolen from StudentHack]		
+	- Snacks available via KurtCart [Idea stolen from StudentHack]		
+		- Essentially Delivery on Tweet.  Attendees can tweet at an account or with a hashtag, volunteers will come round with the snacks cart soon after. 
 		- Requires tables to have fixed numbers + venue map with table numbers.
 		- Requires for active social media monitoring and specific assigned volunteers.
 		- Allows for a more joyful atmosphere with the feeling of a catered to service.  Also volunteers can interact more with attendees!
