@@ -5,8 +5,8 @@
 Hackathons shouldn't be events of self-imposed torture (lack of sleep, post-hackathon illness, junk food overload etc).  So why not provide areas conducive to resting?  Here are some things to take note of:
 
 - Do you have capacity for more than one sleeping rooms?  Do you have Under-18s present staying overnight?  If the answer to either is yes note:
-	- Nice touch to have gender specific sleeping rooms
-	- If Under-18s are present overnight, ensure they have separate sleeping rooms. Background-Checked Volunteers stationed outside Under-18 specific sleeping rooms
+	- Ideally have male, female and non-binary sleeping rooms.  If not, gender specific sleeping rooms while allowing non-binary attendees to make their choice also works.
+	- If Under-18s are present overnight, ensure they have separate sleeping rooms. Background-Checked Volunteers should be stationed outside Under-18 specific sleeping rooms
 - Provide sleeping Bags / Yoga Mats / Air Beds (make sure you have an *electric* pump handy!) depending on your budget.  If not, asking attendees to bring their own is also a possibility. 
 - Is it going to be cold during the event?
 - Don't assume your sleeping areas will always be warm.
