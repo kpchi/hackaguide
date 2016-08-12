@@ -4,7 +4,7 @@
 
 This is fairly controversial, cover the basics first.
   
-The easiest introduction to this topic is having MLH Coaches to various hackathons.  Once introduced, many people never considered the cost of bailing out of it last minute and never showed.  Despite measures taken to let hackers know that such decisions had a financial cost and reduce attrition - not much progress were made.  Thus when coaches to various hackathons were killed, there was a huge outcry as precedent had been set and people 'expected' it to be there.
+The easiest introduction to this topic is having MLH provide transport to various hackathons.  Once introduced, many people never considered the cost of bailing out of it last minute and never showed.  Despite measures taken to let hackers know that such decisions had a financial cost and reduce attrition - not much progress were made.  Thus when coaches to various hackathons were killed, there was a huge outcry as precedent had been set and people 'expected' it to be there.
   
 Similarly this applies to swag.
 
