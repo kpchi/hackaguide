@@ -21,8 +21,8 @@ Beyond that, there are other things such as noise and light pollution as well as
 	- Having heavy doors / curtains help block out some noise
 	- Keep sleeping areas away from main hacking spaces
 	- Avoid planning any mini-events near the sleeping area
-	- Make sleeping rooms **Alarm-free Zones**.  Let attendees know, and have a sign up stating as such.
-		- If you have manpower, vo
+	- Make sleeping rooms **Mobile Phone Alarm-free Zones** (or any similar alarms).  Let attendees know, and have a sign up stating as such.
+		- If you have manpower, you might station volunteers to help wake attendees up during the night hours (1am - 6am).  This is only if attendees specifically request for it.
 
 - Light Pollution
 	- Be aware of where sunlight can stream in - having curtains over windows is ideal.
