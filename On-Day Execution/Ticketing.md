@@ -30,4 +30,4 @@ Waitlist
 - If people without tickets would like to come:
 	- Ensure attendees with tickets have priority
 	- May or may not be a good idea, as people who initially got tickets will feel as if they should not have tried to get tickets anyway.
-	- Unless attrition is extremely high, 20 mins before the Opening Ceremony is a good time to open up spaces to those waiting.
+	- 20 mins before the Opening Ceremony is a good time to open up spaces to those waiting.  However, if attrition is extremely high, you may want to open up spaces long before that.
