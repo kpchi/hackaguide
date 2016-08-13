@@ -52,25 +52,27 @@ To that effect, the batch release system usually works well.  Determining a batc
 And here come the nibbles and elixirs of life that keep hackers sustained when all else has passed.  Hackers need energy to sustain when they're working and staying up all-night, so remember to get high-energy items!  But that doesn't mean only providing Redbull, there are high-energy fruits as well like bananas and pears.  Below is a list of things you can consider.
 
 - Snacks
-	- Fruits (Bananas, Apples, Pears, Tangerines)
-	- Granola Bars
-	- Nuts
-	- Candy (Gummy Bears, Lollipops, Mars Bars and the like)
-	- Crisps
-	- Biscuits
-
+  - Fruits (Bananas, Apples, Pears, Tangerines)
+  - Granola Bars
+  - Nuts
+  - Candy (Gummy Bears, Lollipops, Mars Bars and the like)
+  - Crisps
+  - Biscuits
+<br>
+<br>
 - Drinks
 	- Convenience here is key
 	- Soda cans rather than 1.5L bottles with cups
-	- Redbull (See [Sponsors Section](kpchi.github.io/hackaguide/Pre-Planning/Sponsors "Sponsors")) / Energy Drink
+	- Redbull (See [Sponsors Section](Pre-Event/Sponsors.md "Sponsors")) / Energy Drink
 	- Water bottles (500ml)
 	- Coffee, Tea, Hot Chocolate
 	- Milk (Dairy and Soy)
-
+<br>
+<br>
 - Method of Delivery
 	- Snacks available at fixed locations
-		- Requires regular restocking (see [Restocking Schedule](kpchi.github.io/hackaguide/Pre-Planning/Food.html#restocking-schedule "Restocking Schedule"))
-		- No way to control how much each hacker takes (See [Optional](kpchi.github.io/hackaguide/Optional "Optional"))
+		- Requires regular restocking (see [Restocking Schedule](Optional/Optional.md#restocking-schedule "Restocking Schedule"))
+		- No way to control how much each hacker takes (See [Optional](Optional/Optional.md "Optional"))
 	- Snacks available on regular rounds
 		- Snacks go on rounds every so often
 		- Possible that one or more carts required to prevent snacks that round from running out.
@@ -80,7 +82,8 @@ And here come the nibbles and elixirs of life that keep hackers sustained when a
 		- Requires tables to have fixed numbers + venue map with table numbers.
 		- Requires for active social media monitoring and specific assigned volunteers.
 		- Allows for a more joyful atmosphere with the feeling of a catered to service.  Also volunteers can interact more with attendees!
-
+<br>
+<br>
 - Things worth noting:
 	- Having a variety of food is nice to have if possible.
 	- Add healthy snacks in like nuts, (dried) fruit or granola bars!  
@@ -93,4 +96,4 @@ And here come the nibbles and elixirs of life that keep hackers sustained when a
 - Dependent on the method of delivery, fixed locations can be regularly restocked or restocked as required.  Regular rounds and the KurtCart can get restocked when the round is finished.
 - Debate between regular restock and restocking as required, and regulating restocks.
 	- **Budget dependent**, how much can you afford to release each restock and how much buffer budget do you have left?
-	- **Regulating** before and after meals (See [Optional](kpchi.github.io/hackaguide/Optional "Optional"))
+	- **Regulating** before and after meals (See [Optional](Optional/Optional.md "Optional"))

@@ -4,29 +4,27 @@ Much of the guide is fundamentally about event logistics. However some the point
 
 
 ### Storage of Equipment / Food / Prizes
-  - Clearly listing where stuff is stored
-  - Tools / First Aid Kits and Equipment for re-supply
+  - Clearly listing where stuff is stored.
+  - Tools / First Aid Kits and Equipment for re-supply.
 
 
 ### Furniture
-  - Seating Capacity + Floor Plan
-  - Arrangement
-  - Fire Code / Safety
+  - Seating Capacity + Floor Plan.
+  - Arrangement.
+  - Fire Code / Safety.
 
 
 ### Power Supply
 
-- 
-- Mains Step-down?
-- Generator
-- Electrician support / SLA from venue if any 
+- Mains Step-down?.
+- Generator.
+- Electrician support / SLA from venue if any .
 
 
 ### Pre-Event / Workshop Preparation
 
-- Ensure mic / projector / required equipment working and ready for plug-n-play
+- Ensure mic / projector / required equipment working and ready for plug-n-play.
 - Setting up of furniture layout, making sure general cleanliness of area.
-- 
 
 
 ### Venue Cleanliness

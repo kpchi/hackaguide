@@ -26,7 +26,7 @@
 		- Subversion (3690)
 		- XMPP/Jabber (5222)
 		- Git (9418)
-	- IP Whitelisting on venue's side for various sites to download software
+	- IP Whitelisting on venue's side for various sites to download software.
 	- Any Distrbuted Denial of Service  measures venue's infrastructure might have that will affect the hackathon?
 
 
@@ -47,10 +47,9 @@
 
 - On-site Support
 	- Anyone from venue's Network Admin team around on-site if something happens?
-	- (optional) Access to live information about how much bandwidth has been used and which protocols?  Done via SNMP Traps of the Wifi AP's
+	- (optional) Access to live information about how much bandwidth has been used and which protocols?  Done via SNMP Traps of the Wifi AP's.
 
 
 ### External Internet Service Providers (ISPs)
 
 - External ISP Providers?
-	- Contact Sami re: Contract and Requirements

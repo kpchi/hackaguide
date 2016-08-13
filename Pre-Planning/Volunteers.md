@@ -5,10 +5,10 @@ The *lifeblood* of any event: without their commitment and effort - even the bes
 ### Building the Team
 
 - Choose your core team for specific roles and let them pick their teams.  From there trust them to execute the decisions made and not micro-manage.  
-  - Always offer your support 
-- Getting volunteers to feel involved in the planning of the event
-  - People will feel invested in an event if they feel their opinions matter in the grand scheme of things
-  - Keep them in the loop of whats going on (ensuring relevance) and not constantly lost
+  - Always offer your support.
+- Getting volunteers to feel involved in the planning of the event.
+  - People will feel invested in an event if they feel their opinions matter in the grand scheme of things.
+  - Keep them in the loop of whats going on (ensuring relevance) and not constantly lost.
 
 
 ### Kept in the Loop
@@ -16,10 +16,10 @@ The *lifeblood* of any event: without their commitment and effort - even the bes
 Speaking of being kept in the loop - with the wealth of information available, how do you keep track of everything?  Here are some ways:
 
 - Slack
-  - Full Team Discussions
+  - Full Team Discussions.
   - Announcements of issues / news the team needs to be aware of.
 - Google Drive
-  - Centralised repository for files
+  - Centralised repository for files.
   - Meeting minutes, spreadsheets to keep track of budgets etc.
 - Trello
   - Can act as a summary of tasks.  Easy to see at a glance what needs to be done by when.
@@ -37,14 +37,14 @@ Instead of ad hoc deciding who should be doing what on the day itself, why not p
 - Schedule shift changes around things occurring. E.g. preparing for a meal / event / workshop or tidying up the Sleeping Rooms before / after.
 - Rest is important, make sure that every volunteer gets sufficient rest during the event. Lack of sleep hinders people from quick decision-making.  {{NB: see more in On-Day Execution Volunteers: Enforcing}}
 - If changes need to be made to the schedule:
- - How quickly can you update the Volunteer Schedule
- - How long before the change is disseminated
+ - How quickly can you update the Volunteer Schedule.
+ - How long before the change is disseminated.
 
 
 ### Team Briefing
 
-- Done a week / few days before the event
-  - Covers the responsibilities they've been assigned to in the [Volunteer Schedule]()
-  - Covering the Code of Conduct and acceptable behaviour
+- Done a week / few days before the event.
+  - Covers the responsibilities they've been assigned to in the [Volunteer Schedule](Pre-Event/Volunteers.md#Volunteer-Schedule).
+  - Covering the Code of Conduct and acceptable behaviour.
   - Walkthrough of the venue, rooms and their purposes.  Resolving any issues that may arise or answering questions / doubts.
 - Will you be using walkie-talkies during your event?  If yes, the team should know about radio etiquette.  While a joke or two can be funny, constant unecessary radio chatter is annoying. 
