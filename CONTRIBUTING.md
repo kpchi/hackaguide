@@ -5,7 +5,7 @@ If you'd like to contribute to Hackaguide, here's how you can do so!
 1. Check [Github Issues](https://github.com/hackaguide/hackaguide/issues) to see if something similar has been raised.
 2. Create an issue and provide the following information:
   3. **Clear and Descriptive title - Segment Name/Topic** for the issue / change. (Where Segment is Preface/Pre-Event etc and Topic is Food/Marketing etc).
-  4. **Describe what the issue / change is**
+  4. **Describe what the issue / change is**.
   5. **List the proposed fix / change** that you have.
 
 **Rough Template for Issue Creation**
