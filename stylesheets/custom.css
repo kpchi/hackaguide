@@ -1,0 +1,5 @@
+/* Summary */
+
+.book .book-summary ul.summary > li:first-child {
+  display: none;
+}

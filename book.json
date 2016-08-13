@@ -1,6 +1,7 @@
 {
-  "plugins": ["ga"],
+  "plugins": ["ga", "-sharing"],
   "pluginsConfig": {
     "ga": { "token": "UA-81801153-1" }
-  }
+  },
+  "styles": { "website": "stylesheets/custom.css" }
 }
