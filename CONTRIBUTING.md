@@ -34,7 +34,7 @@ git commit -m "Proposed change as discussed in #<issue number>
 ```
 3. Push your branch to GitHub
 ```
-git push origin my-fix-branch
+git push origin fix-issue-<issue number>
 ```
 4. In GitHub, send a pull request to ```Hackaguide/master```
 
@@ -56,7 +56,7 @@ git branch -D fix-issue-<issue number>
 ```
 4. Update your master with the latest upstream version
 ```
-git pull -ff upstream master
+git pull -ff origin master
 ```
 
 Thank you from the Hackaguide Team
