@@ -59,4 +59,4 @@ git branch -D fix-issue-<issue number>
 git pull -ff origin master
 ```
 
-Thank you from the Hackaguide Team
+Thank you from the Hackaguide Team!
