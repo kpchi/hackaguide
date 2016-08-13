@@ -1,22 +1,25 @@
 # Preface
 
-So you'd like to organize a hackathon!  That's a huge step and we'd like to welcome you to the wonderous world of hackathon organising and managing organised chaos.  We all organize hackathons for different reasons.  While bigger and better seems appealing - so is the joy of building a community that facilitates the meeting of like-minded people to share ideas and build awesome projects!  That reason will influence some of the key decisions you will make while organizing the event!
+Welcome to Hackaguide and the wondrous world of hackathon organising!  We've attempted to document many of the options available to you while organising a hackathon.  
 
-This guide should cover many of the issues you'll face before, during and after the hackathon.  We're attempting to document the many options available to you and often will highlight one option.  Do not construe this as that option being better than others.  The guide is split into the following segments:
+Please note this is still a very rough work in progress, with only the Pre-Event section being completed at the moment.
+
+As mentioned, Hackaguide attempts to document many of the issues you'll face before, during and after the hackathon.  While you're more than welcome to cover the whole guide, we suggest that you cherry-pick sections you're interested in / unsure about.  To that end, the guide is split into the following segments:
 
 - Preface (You're here aren't you?)
-- Pre-Planning
-	- This is a lengthy read, but please don't be intimidated by it.  Much of the content is to give you an idea of the various choices available and reasons why you would want to pick one over the others.  
-	- Segmented by topic for easy reference, feel free to skip to specific chapters as you require.
+- Pre-Event
+	- As mentioned earlier, this is more of a documentation and less a baseline.  So while a lengthy read, don't be intimidated by it.  The content is to show you the many choices available and reasons why you would want to pick one over the others.  
+	- Segmented by topic for easy reference, feel free to skip to specific chapters you're interested in / unsure about.
 - On-Day Execution
-	- A more concise version of Pre-Planning
-	- The topics here duplicate Pre-Planning **but** assume you've read the same chapter in Pre-Planning.  The focus here will be on operations during the event and executing / implementing decisions you've made during Pre-Planning.
+	- A more concise version of Pre-Event focused on execution.
+	- Topics here assume you've covered the same topic in Pre-Event.  Additional things to look out for while executing / implementing decisions and managing organised chaos are included.
 - Post-Event
-	- Things you'll want to do after your event is done
+	- Things you'll want to prepare for after your event is done
 - Optional
-	- Stuff that you **shouldn't** approach until you're confident that you've covered the essentials / core.  This stuff can be woolly, headache-worthy and occassionally raise your internal caffeine pressure sky-high.  *Approach with significant caution.*
+	- Stuff that you **shouldn't** approach until you're confident that you've covered the essentials / core.  This stuff can be woolly, headache-worthy and occasionally raise your internal caffeine pressure sky-high.  *Approach with significant caution.*
 
+*In each section, we sometimes make assumptions - which are clearly stated - mostly around 24-hour long hackathons.  But be aware deviations can and will take place.*
 
-Let us repeat again: Hackathon Organising isn't too difficult, have fun and enjoy yourself while doing it.  This guide is long but mainly because we wanted to cover as much detail as possible to make life easy for our lovely readers!  We hope you have as much fun running a hackathon as we had running ours!
+We hope you have as much fun organising a hackathon as much as we had running ours!
 
-PS: Feel free to make a pull request to this repo if you feel we've missed anything out!
+PS: If you would like to contribute to this repo - check out our [Contributors page](Contributors.md)!
