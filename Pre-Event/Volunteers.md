@@ -35,7 +35,7 @@ Instead of ad hoc deciding who should be doing what on the day itself, why not p
 - Check what times your Volunteers are available at - not everyone can be at the event 24/7. Even if they can they might wander off just because.
 - Try to assign volunteers to the same tasks they've worked on before.  This ensures those with an intimate knowledge of what needs to be done in a specific role are responsible for it.
 - Schedule shift changes around things occurring. E.g. preparing for a meal / event / workshop or tidying up the Sleeping Rooms before / after.
-- Rest is important, make sure that every volunteer gets sufficient rest during the event. Lack of sleep hinders people from quick decision-making.  {{NB: see more in On-Day Execution Volunteers: Enforcing}}
+- Rest is important, make sure that every volunteer gets sufficient rest during the event. Lack of sleep hinders people from quick decision-making.  (Note: See more in [On-Day/Volunteers](On-Day-Execution/Volunteers.md))
 - If changes need to be made to the schedule:
  - How quickly can you update the Volunteer Schedule.
  - How long before the change is disseminated.
