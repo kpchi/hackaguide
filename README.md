@@ -1,5 +1,7 @@
 # Preface
 
+_Hackaguide is accessible online [here](https://kpchi.gitbooks.io/hackaguide/content/)_
+
 Welcome to Hackaguide and the wondrous world of hackathon organising!  We've attempted to document many of the options available to you while organising a hackathon.  
 
 Please note this is still a very rough work in progress, with only the Pre-Event section being completed at the moment.
