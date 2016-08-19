@@ -28,7 +28,7 @@ Once general consensus has been achieved, you can submit a pull request!
 ```
 git checkout -b fix-issue-<issue number> master
 ```
-2. Commit your changes with a message stating "Proposed change as discussed in #```<Issue Number>```
+2. Make your changes, add then commit your changes with a message stating "Proposed change as discussed in #```<Issue Number>```
 ```
 git commit -m "Proposed change as discussed in #<issue number>
 ```

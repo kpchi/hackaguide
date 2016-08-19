@@ -1,6 +1,6 @@
 # Volunteers
 
-The *lifeblood* of any event: without their commitment and effort - even the best laid plans go to waste.  So how do you aim to achieve that?  
+The *lifeblood* of any event: without their commitment and effort - even the best laid plans go to waste.  So how do you aim to achieve that?  This section will cover volunteer-related topics **Pre-Event**
 
 ### Building the Team
 
