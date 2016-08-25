@@ -22,3 +22,7 @@ Things worth Noting:
 ### Volunteer Schedule
 
 This is the full schedule where you'll detail what roles volunteers are assigned and where they should be. For more details, check out the [Volunteer Section](Pre-Event/Volunteers.md#Schedule "Volunteer Section").
+
+---
+
+The On-Day Execution Segment can be found [here](On-Day-Execution/Schedule.md)

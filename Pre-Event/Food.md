@@ -96,3 +96,7 @@ And here come the nibbles and elixirs of life that keep hackers sustained when a
 - Debate between regular restock and restocking as required, and regulating restocks.
 	- **Budget dependent**, how much can you afford to release each restock and how much buffer budget do you have left?
 	- **Regulating** before and after meals (See [Optional](Optional/Optional.md "Optional")).
+
+---
+
+The On-Day Execution Segment can be found [here](On-Day-Execution/Food.md)

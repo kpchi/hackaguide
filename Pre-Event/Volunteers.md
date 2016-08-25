@@ -44,7 +44,13 @@ Instead of ad hoc deciding who should be doing what on the day itself, why not p
 ### Team Briefing
 
 - Done a week / few days before the event.
-  - Covers the responsibilities they've been assigned to in the [Volunteer Schedule](Pre-Event/Volunteers.md#Volunteer-Schedule).
-  - Covering the Code of Conduct and acceptable behaviour.
+- Topics include:
+  - Responsibilities they've been assigned to in the [Volunteer Schedule](Pre-Event/Volunteers.md#Volunteer-Schedule).
+  - Emergency Plans (Fire or other emergencies)
+  - Code of Conduct and acceptable behaviour.
   - Walkthrough of the venue, rooms and their purposes.  Resolving any issues that may arise or answering questions / doubts.
-- Will you be using walkie-talkies during your event?  If yes, the team should know about radio etiquette.  While a joke or two can be funny, constant unecessary radio chatter is annoying. 
+  - Radio Etiquette.  If you're using walkie-talkies during your event, this should be covered.  While a joke or two can be funny, unecessary radio chatter is annoying.
+
+---
+
+The On-Day Execution Segment can be found [here](On-Day-Execution/Volunteers.md)

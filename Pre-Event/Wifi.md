@@ -53,3 +53,7 @@
 ### External Internet Service Providers (ISPs)
 
 - External ISP Providers?
+
+---
+
+The On-Day Execution Segment can be found [here](On-Day-Execution/Wifi.md)

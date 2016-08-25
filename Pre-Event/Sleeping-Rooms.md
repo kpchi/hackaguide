@@ -31,3 +31,7 @@ Beyond that, there are other things such as noise and light pollution as well as
 - Privacy
 	- You wouldn't like it if someone was able to peek into your bedroom while you were sleeping.  Similarly, you should ensure resting attendees have such privacy.
 	- Space out how you lay the mats!  We all have differing levels of personal space, and it wouldn't be fun to roll into another person at night.
+
+---
+
+The On-Day Execution Segment can be found [here](On-Day-Execution/Sleeping-Rooms.md)

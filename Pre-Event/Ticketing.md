@@ -103,3 +103,7 @@ NOTE: Eventbrite has a weird bug where tickets released to waitlisted people are
 - Accessibility to various groups 
 	- Individuals from groups under-represented in technology.
 	- Those with special needs or requiring special accommodations.
+
+---
+
+The On-Day Execution Segment can be found [here](On-Day-Execution/Ticketing.md)

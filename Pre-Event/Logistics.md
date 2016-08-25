@@ -45,3 +45,7 @@ Much of the guide is fundamentally about event logistics. However some the point
 ### Fire Safety 
 
 - Venue-rules
+
+---
+
+The On-Day Execution Segment can be found [here](On-Day-Execution/Logistics.md)

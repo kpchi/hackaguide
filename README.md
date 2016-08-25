@@ -1,6 +1,6 @@
 # Preface
 
-_Hackaguide is accessible online [here](https://kpchi.gitbooks.io/hackaguide/content/)_
+*Hackaguide is accessible online [here](https://kpchi.gitbooks.io/hackaguide/content/)*
 
 Welcome to Hackaguide and the wondrous world of hackathon organising!  We've attempted to document many of the options available to you while organising a hackathon.  
 

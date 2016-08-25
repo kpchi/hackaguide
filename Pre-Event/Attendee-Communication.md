@@ -81,3 +81,7 @@ You've definitely been annoyed at unclear, confusing signs before.  So how else 
 
 
 [1]: Wilhelm Klopp has an excellent write-up on bot-building [here](https://blog.techsoc.io/a-bot-to-assist-hackathon-attendees-does-it-work-82fb3f75180c "here").
+
+---
+
+The On-Day Execution Segment can be found [here](On-Day-Execution/Attendee-Communication.md)
