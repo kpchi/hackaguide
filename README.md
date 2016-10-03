@@ -24,4 +24,4 @@ As mentioned, Hackaguide attempts to document many of the issues you'll face bef
 
 We hope you have as much fun organising a hackathon as much as we had running ours!
 
-PS: If you would like to contribute to this repo - check out our [Contributors page](CONTRIBUTING.md)!
+PS: If you would like to contribute to this repo - check out our [GitHub repo](https://github.com/kpchi/hackaguide)!
