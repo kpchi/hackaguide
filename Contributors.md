@@ -5,4 +5,4 @@ The full list of contributors to Hackaguide is listed below in alphabetical orde
 
 Thank you all for your help and contributions!
 
-For more details on how to contribute, check out our [Contributing Guidelines](CONTRIBUTING.md)! (We promise it's not boring)
+For more details on how to contribute, check out our [Contributing Guidelines](Contribute.md)! (We promise it's not boring)
